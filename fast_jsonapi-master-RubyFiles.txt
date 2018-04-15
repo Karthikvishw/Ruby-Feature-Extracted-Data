@@ -1,0 +1,1858 @@
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/spec_helper.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 7
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 20
+reference: 38
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 8
+class_inheritance: 0
+literal: 7
+string_literal: 12
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 26
+identifier: 41
+varname: 24
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 3
+paren_call_args: 3
+call_args: 10
+binary_op: 4
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_set_id_spec.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 26
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 34
+reference: 52
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 27
+class_inheritance: 0
+literal: 19
+string_literal: 7
+numeric_literal: 2
+symbol_literal: 11
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 54
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 38
+function_call: 0
+paren_call_args: 0
+call_args: 25
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/js_context.rb ===
+statements: 33
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 77
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 3
+block_vars: 3
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 91
+reference: 106
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 9
+module_definition: 0
+method_definition: 8
+command: 32
+class_inheritance: 0
+literal: 42
+string_literal: 9
+numeric_literal: 5
+symbol_literal: 28
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 60
+identifier: 149
+varname: 59
+global_id: 0
+instance_id: 6
+operation: 72
+function_call: 4
+paren_call_args: 4
+call_args: 28
+binary_op: 2
+unary_op: 0
+Include statement: 4
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 4
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/js_context.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/movie_context.rb ===
+statements: 44
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 132
+return_expression: 0
+yield_expression: 0
+iterator: 13
+block_var: 5
+block_vars: 5
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 179
+reference: 213
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 14
+module_definition: 2
+method_definition: 5
+command: 64
+class_inheritance: 0
+literal: 106
+string_literal: 9
+numeric_literal: 22
+symbol_literal: 75
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 106
+identifier: 285
+varname: 103
+global_id: 0
+instance_id: 0
+operation: 148
+function_call: 4
+paren_call_args: 4
+call_args: 56
+binary_op: 2
+unary_op: 0
+Include statement: 9
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 5
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/movie_context.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/ams_context.rb ===
+statements: 26
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 68
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 3
+block_vars: 3
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 74
+reference: 88
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 9
+module_definition: 0
+method_definition: 1
+command: 31
+class_inheritance: 9
+literal: 42
+string_literal: 9
+numeric_literal: 5
+symbol_literal: 28
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 41
+identifier: 136
+varname: 41
+global_id: 0
+instance_id: 0
+operation: 61
+function_call: 1
+paren_call_args: 1
+call_args: 23
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_performance_spec.rb ===
+statements: 52
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 147
+return_expression: 0
+yield_expression: 0
+iterator: 35
+block_var: 19
+block_vars: 15
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 414
+reference: 576
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 3
+command: 87
+class_inheritance: 0
+literal: 156
+string_literal: 42
+numeric_literal: 29
+symbol_literal: 86
+array_literal: 16
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 318
+identifier: 558
+varname: 310
+global_id: 0
+instance_id: 0
+operation: 241
+function_call: 65
+paren_call_args: 50
+call_args: 111
+binary_op: 19
+unary_op: 0
+Include statement: 9
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 2
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialized_json.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 12
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 4
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 21
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_key_transform_spec.rb ===
+statements: 27
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 64
+return_expression: 0
+yield_expression: 0
+iterator: 13
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 117
+reference: 189
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 67
+class_inheritance: 0
+literal: 67
+string_literal: 17
+numeric_literal: 12
+symbol_literal: 39
+array_literal: 16
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 78
+identifier: 202
+varname: 78
+global_id: 0
+instance_id: 0
+operation: 122
+function_call: 16
+paren_call_args: 14
+call_args: 76
+binary_op: 0
+unary_op: 0
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 2
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 2
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_context.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_context.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 48 of OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_context.rb - Syntax error at or near:
+	. merge ( class : >>> { <<< 
+ JSONAPIMovie : JSONAPIMovieSerializer , 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_with_attribute_block_spec.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 31
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 12
+class_inheritance: 0
+literal: 12
+string_literal: 5
+numeric_literal: 2
+symbol_literal: 6
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 27
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 19
+function_call: 1
+paren_call_args: 1
+call_args: 13
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/as_notifications_negative_spec.rb ===
+statements: 20
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 36
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 54
+reference: 84
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 28
+class_inheritance: 0
+literal: 17
+string_literal: 7
+numeric_literal: 4
+symbol_literal: 7
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 47
+identifier: 85
+varname: 44
+global_id: 0
+instance_id: 3
+operation: 45
+function_call: 10
+paren_call_args: 10
+call_args: 35
+binary_op: 3
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/active_record_spec.rb ===
+statements: 20
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 36
+return_expression: 0
+yield_expression: 0
+iterator: 7
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 52
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 0
+method_definition: 0
+command: 28
+class_inheritance: 2
+literal: 19
+string_literal: 9
+numeric_literal: 3
+symbol_literal: 8
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 2
+variable: 23
+identifier: 54
+varname: 21
+global_id: 0
+instance_id: 10
+operation: 37
+function_call: 1
+paren_call_args: 1
+call_args: 28
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/has_one.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 9
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 1
+command: 3
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 1
+variable: 8
+identifier: 14
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 0
+paren_call_args: 0
+call_args: 3
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 2
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/group_context.rb ===
+statements: 25
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 81
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 2
+block_vars: 2
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 108
+reference: 149
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 5
+module_definition: 2
+method_definition: 1
+command: 24
+class_inheritance: 0
+literal: 58
+string_literal: 13
+numeric_literal: 11
+symbol_literal: 34
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 95
+identifier: 180
+varname: 94
+global_id: 0
+instance_id: 0
+operation: 62
+function_call: 3
+paren_call_args: 3
+call_args: 21
+binary_op: 3
+unary_op: 0
+Include statement: 3
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 2
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/group_context.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/result_spec.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/result_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 10 of OpenSourceProjects/fast_jsonapi-master-RubyFiles/result_spec.rb - Syntax error at or near:
+	require '1' 
+ end . >>> rescue <<< do 
+ require '2' 
+ 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/serializer_generator.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 23
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 8
+string_literal: 7
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 28
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_struct_spec.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 31
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 62
+reference: 92
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 44
+class_inheritance: 0
+literal: 28
+string_literal: 4
+numeric_literal: 8
+symbol_literal: 17
+array_literal: 13
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 29
+identifier: 94
+varname: 27
+global_id: 0
+instance_id: 0
+operation: 67
+function_call: 6
+paren_call_args: 6
+call_args: 50
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/serializable_hash.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 12
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 4
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 21
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/multi_to_json.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/multi_to_json.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 39 of OpenSourceProjects/fast_jsonapi-master-RubyFiles/multi_to_json.rb - Syntax error at or near:
+	
+ end 
+ 
+ def >>> rescue <<< 
+ return self if ok? 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/as_notifications_spec.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 3
+block_vars: 3
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 84
+reference: 135
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 51
+class_inheritance: 0
+literal: 27
+string_literal: 12
+numeric_literal: 6
+symbol_literal: 11
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 74
+identifier: 147
+varname: 71
+global_id: 0
+instance_id: 3
+operation: 78
+function_call: 16
+paren_call_args: 16
+call_args: 57
+binary_op: 5
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 2
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_class_methods_spec.rb ===
+statements: 36
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 74
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 123
+reference: 184
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 91
+class_inheritance: 0
+literal: 55
+string_literal: 19
+numeric_literal: 0
+symbol_literal: 37
+array_literal: 14
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 81
+identifier: 220
+varname: 82
+global_id: 0
+instance_id: 1
+operation: 137
+function_call: 10
+paren_call_args: 9
+call_args: 93
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 1
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_spec.rb ===
+statements: 59
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 133
+return_expression: 0
+yield_expression: 0
+iterator: 25
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 246
+reference: 369
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 4
+module_definition: 1
+method_definition: 0
+command: 130
+class_inheritance: 0
+literal: 92
+string_literal: 52
+numeric_literal: 14
+symbol_literal: 27
+array_literal: 35
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 175
+identifier: 365
+varname: 163
+global_id: 0
+instance_id: 0
+operation: 191
+function_call: 34
+paren_call_args: 32
+call_args: 156
+binary_op: 0
+unary_op: 0
+Include statement: 9
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/serialization_core_spec.rb ===
+statements: 38
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 86
+return_expression: 0
+yield_expression: 0
+iterator: 18
+block_var: 8
+block_vars: 7
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 174
+reference: 254
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 93
+class_inheritance: 0
+literal: 66
+string_literal: 20
+numeric_literal: 3
+symbol_literal: 44
+array_literal: 21
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 136
+identifier: 287
+varname: 132
+global_id: 0
+instance_id: 0
+operation: 155
+function_call: 18
+paren_call_args: 16
+call_args: 93
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 11
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/fast_jsonapi.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 1
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_group_context.rb ===
+[OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_group_context.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 29 of OpenSourceProjects/fast_jsonapi-master-RubyFiles/jsonapi_group_context.rb - Syntax error at or near:
+	. merge ( class : >>> { <<< 
+ JSONAPIPerson : JSONAPIPersonSerializer , 
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/ams_group_context.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 69
+return_expression: 0
+yield_expression: 0
+iterator: 8
+block_var: 3
+block_vars: 3
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 79
+reference: 113
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 4
+module_definition: 0
+method_definition: 1
+command: 20
+class_inheritance: 4
+literal: 38
+string_literal: 11
+numeric_literal: 12
+symbol_literal: 15
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 83
+identifier: 149
+varname: 83
+global_id: 0
+instance_id: 0
+operation: 37
+function_call: 1
+paren_call_args: 1
+call_args: 14
+binary_op: 6
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 2
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/skylight.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/object_serializer_caching_spec.rb ===
+statements: 30
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 68
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 119
+reference: 195
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 79
+class_inheritance: 0
+literal: 50
+string_literal: 9
+numeric_literal: 10
+symbol_literal: 32
+array_literal: 18
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 78
+identifier: 209
+varname: 76
+global_id: 0
+instance_id: 0
+operation: 130
+function_call: 19
+paren_call_args: 19
+call_args: 90
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/instrumentation.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/fast_jsonapi-master-RubyFiles/js_group_context.rb ===
+statements: 25
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 77
+return_expression: 0
+yield_expression: 0
+iterator: 8
+block_var: 3
+block_vars: 3
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 91
+reference: 124
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 5
+module_definition: 0
+method_definition: 6
+command: 23
+class_inheritance: 0
+literal: 38
+string_literal: 11
+numeric_literal: 12
+symbol_literal: 15
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 96
+identifier: 163
+varname: 95
+global_id: 0
+instance_id: 4
+operation: 47
+function_call: 3
+paren_call_args: 3
+call_args: 18
+binary_op: 6
+unary_op: 0
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 2
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1

@@ -1,0 +1,5243 @@
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_url.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 11
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 0
+literal: 4
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 10
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/production.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 24
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 46
+reference: 89
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 16
+string_literal: 11
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 66
+identifier: 87
+varname: 55
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 3
+paren_call_args: 3
+call_args: 3
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160802182934_add_welcomed_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 8
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 9
+varname: 1
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/backtrace_silencers.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/spec_helper.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 3
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/veteran.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/veteran.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 27 of OpenSourceProjects/operationcode-master-RubyFiles/veteran.rb - Syntax error at or near:
+	geocode , if : -> >>> ( <<< v ) { v . 
+=== OpenSourceProjects/operationcode-master-RubyFiles/application_controller.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/application_controller.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 27 of OpenSourceProjects/operationcode-master-RubyFiles/application_controller.rb - Syntax error at or near:
+	: configure_devise_params , if : >>> : <<< devise_controller? 
+ def configure_devise_params 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/registratons_controller.rb ===
+statements: 38
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 64
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 116
+reference: 141
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 76
+class_inheritance: 0
+literal: 58
+string_literal: 24
+numeric_literal: 2
+symbol_literal: 33
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 43
+identifier: 172
+varname: 41
+global_id: 0
+instance_id: 0
+operation: 131
+function_call: 22
+paren_call_args: 22
+call_args: 83
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/schema.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 64
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 5
+block_vars: 5
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 158
+reference: 209
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 64
+class_inheritance: 0
+literal: 97
+string_literal: 82
+numeric_literal: 3
+symbol_literal: 12
+array_literal: 7
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 108
+identifier: 172
+varname: 94
+global_id: 0
+instance_id: 0
+operation: 77
+function_call: 1
+paren_call_args: 1
+call_args: 65
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20150622084740_add_last_name_to_donations.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/routes.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 71
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 188
+reference: 195
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 70
+class_inheritance: 0
+literal: 140
+string_literal: 122
+numeric_literal: 0
+symbol_literal: 18
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 39
+identifier: 138
+varname: 38
+global_id: 0
+instance_id: 0
+operation: 100
+function_call: 12
+paren_call_args: 12
+call_args: 81
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_inviter_job.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 21
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 4
+class_inheritance: 1
+literal: 5
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 11
+identifier: 27
+varname: 11
+global_id: 0
+instance_id: 1
+operation: 13
+function_call: 3
+paren_call_args: 3
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/lets_encrypt.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 7
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 16
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 17
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 2
+paren_call_args: 1
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20150622084428_fix_column_name_in_donations.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/veteran_spec.rb ===
+statements: 42
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 22
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 70
+reference: 88
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 35
+string_literal: 19
+numeric_literal: 0
+symbol_literal: 17
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 23
+identifier: 99
+varname: 21
+global_id: 0
+instance_id: 0
+operation: 76
+function_call: 9
+paren_call_args: 9
+call_args: 50
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_notifier_job.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/slack_notifier_job.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 6 of OpenSourceProjects/operationcode-master-RubyFiles/slack_notifier_job.rb - Syntax error at or near:
+	perform ( message , channel >>> : <<< '#general' ) 
+ res = 
+=== OpenSourceProjects/operationcode-master-RubyFiles/active_admin.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 5
+reference: 11
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 4
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 15
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mime_types.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/stripe.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 7
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 30
+reference: 48
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 11
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 8
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 28
+identifier: 45
+varname: 28
+global_id: 0
+instance_id: 0
+operation: 12
+function_call: 4
+paren_call_args: 4
+call_args: 4
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/filter_parameter_logging.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 5
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 1
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 5
+varname: 3
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/session_store.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 2
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 6
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20141202222312_create_active_admin_comments.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 28
+reference: 31
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 11
+class_inheritance: 1
+literal: 15
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 15
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 41
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 28
+function_call: 0
+paren_call_args: 0
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/veteran_test.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 34
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 72
+reference: 105
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 25
+class_inheritance: 1
+literal: 27
+string_literal: 15
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 55
+identifier: 113
+varname: 55
+global_id: 0
+instance_id: 0
+operation: 60
+function_call: 22
+paren_call_args: 18
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/sentry.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 8
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 1
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 11
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 1
+paren_call_args: 1
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/code_schools_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 20
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 34
+reference: 57
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 14
+class_inheritance: 1
+literal: 16
+string_literal: 13
+numeric_literal: 4
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 37
+identifier: 56
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 16
+function_call: 2
+paren_call_args: 2
+call_args: 15
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160723223901_create_letsencrypt_table.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 5
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 10
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/wrap_parameters.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 8
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 3
+class_inheritance: 0
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 7
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 0
+paren_call_args: 0
+call_args: 3
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/registrations_controller_test.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 16
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 0
+command: 4
+class_inheritance: 1
+literal: 7
+string_literal: 6
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 19
+varname: 10
+global_id: 0
+instance_id: 1
+operation: 6
+function_call: 0
+paren_call_args: 0
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/code_schools_controller.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 10
+reference: 13
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 1
+class_inheritance: 1
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 18
+varname: 16
+global_id: 0
+instance_id: 4
+operation: 4
+function_call: 1
+paren_call_args: 1
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mentee_mailer.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/mentee_mailer.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 5 of OpenSourceProjects/operationcode-master-RubyFiles/mentee_mailer.rb - Syntax error at or near:
+	
+ def welcome ( mentee >>> : <<< , mentor : ) 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/assets.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 5
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 5
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/add_user_to_airtables_job.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 41
+reference: 51
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 7
+class_inheritance: 1
+literal: 6
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 42
+identifier: 50
+varname: 43
+global_id: 0
+instance_id: 11
+operation: 15
+function_call: 5
+paren_call_args: 5
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/pages_controller.rb ===
+statements: 30
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 31
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 34
+reference: 7
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 28
+command: 1
+class_inheritance: 1
+literal: 2
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 5
+identifier: 36
+varname: 5
+global_id: 0
+instance_id: 1
+operation: 30
+function_call: 1
+paren_call_args: 1
+call_args: 2
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/donation.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 10
+reference: 8
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 5
+string_literal: 0
+numeric_literal: 1
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 11
+varname: 1
+global_id: 0
+instance_id: 0
+operation: 7
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mentee_mailer_test.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 36
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 9
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 1
+symbol_literal: 2
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 26
+identifier: 43
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 15
+function_call: 4
+paren_call_args: 3
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/donations_controller.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/donations_controller.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 19 of OpenSourceProjects/operationcode-master-RubyFiles/donations_controller.rb - Syntax error at or near:
+	source => token , 
+ >>> ) <<< 
+ 
+ charge = Stripe 
+=== OpenSourceProjects/operationcode-master-RubyFiles/pages_helper.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 7
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 8
+reference: 7
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 3
+command: 0
+class_inheritance: 0
+literal: 2
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 10
+varname: 6
+global_id: 0
+instance_id: 2
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/environment.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 6
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 1
+paren_call_args: 1
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/dashboard.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/dashboard.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 6 of OpenSourceProjects/operationcode-master-RubyFiles/dashboard.rb - Syntax error at or near:
+	do 
+ div class : >>> "blank_slate_container" <<< , id : "dashboard_default_message" do 
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_url_test.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 31
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 10
+class_inheritance: 1
+literal: 14
+string_literal: 10
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 38
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 20
+function_call: 5
+paren_call_args: 5
+call_args: 15
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/application.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 7
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 11
+reference: 17
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 0
+command: 2
+class_inheritance: 1
+literal: 4
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 1
+variable: 9
+identifier: 20
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 3
+paren_call_args: 3
+call_args: 5
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/cookies_serializer.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 5
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 1
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 6
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/donation_mailer_preview.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 1
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 3
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/puma.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 18
+reference: 23
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 8
+class_inheritance: 0
+literal: 8
+string_literal: 5
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 9
+identifier: 19
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 2
+paren_call_args: 2
+call_args: 8
+binary_op: 4
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_client_spec.rb ===
+statements: 28
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 51
+return_expression: 0
+yield_expression: 0
+iterator: 18
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 155
+reference: 200
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 38
+class_inheritance: 0
+literal: 66
+string_literal: 39
+numeric_literal: 9
+symbol_literal: 12
+array_literal: 4
+regular_expression: 8
+command_output: 0
+here_document: 0
+variable: 87
+identifier: 153
+varname: 83
+global_id: 0
+instance_id: 14
+operation: 84
+function_call: 34
+paren_call_args: 31
+call_args: 66
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/split.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 2
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 14
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 2
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 11
+identifier: 18
+varname: 11
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 2
+paren_call_args: 2
+call_args: 4
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160714174434_add_type_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/utils.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/utils.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 1 of OpenSourceProjects/operationcode-master-RubyFiles/utils.rb - Syntax error at or near:
+	>>> ï <<< » ¿ # frozen_string_literal: true 
+ 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/sidekiq.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 10
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 3
+class_inheritance: 0
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 27
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 2
+paren_call_args: 2
+call_args: 3
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160527025526_add_devise_to_veterans.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 32
+reference: 39
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 13
+class_inheritance: 1
+literal: 16
+string_literal: 1
+numeric_literal: 1
+symbol_literal: 14
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 24
+identifier: 50
+varname: 18
+global_id: 0
+instance_id: 0
+operation: 29
+function_call: 0
+paren_call_args: 0
+call_args: 13
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/veterans_controller.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 25
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 4
+modifier: 4
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 46
+reference: 54
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 5
+command: 13
+class_inheritance: 1
+literal: 20
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 20
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 24
+identifier: 62
+varname: 23
+global_id: 0
+instance_id: 2
+operation: 44
+function_call: 6
+paren_call_args: 6
+call_args: 19
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/profile_helper.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/profile_helper.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 3 of OpenSourceProjects/operationcode-master-RubyFiles/profile_helper.rb - Syntax error at or near:
+	
+ def menu_item ( item_name >>> : <<< , item_path : ) 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/operation_code_test.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 21
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 40
+reference: 58
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 10
+class_inheritance: 1
+literal: 20
+string_literal: 17
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 23
+identifier: 53
+varname: 23
+global_id: 0
+instance_id: 0
+operation: 26
+function_call: 12
+paren_call_args: 12
+call_args: 22
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/devise.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 12
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 32
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 11
+string_literal: 3
+numeric_literal: 5
+symbol_literal: 4
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 32
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 1
+paren_call_args: 0
+call_args: 0
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/donation_mailer_test.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 1
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 3
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160716140708_add_mentor_id_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mentees_controller.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 12
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 18
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 3
+command: 6
+class_inheritance: 1
+literal: 6
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 20
+varname: 10
+global_id: 0
+instance_id: 5
+operation: 15
+function_call: 2
+paren_call_args: 2
+call_args: 8
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160630035521_add_wants_mentor_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20150620023525_create_donations.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 11
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 5
+class_inheritance: 1
+literal: 4
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 19
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 0
+paren_call_args: 0
+call_args: 5
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/sessions_controller.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 0
+command: 0
+class_inheritance: 1
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 4
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/development.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 12
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 15
+reference: 36
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 5
+string_literal: 1
+numeric_literal: 1
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 30
+identifier: 38
+varname: 23
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/factories.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 8
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 7
+class_inheritance: 0
+literal: 7
+string_literal: 5
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 11
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 0
+paren_call_args: 0
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/test.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 14
+reference: 35
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 5
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 29
+identifier: 38
+varname: 22
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/slack_utils_spec.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/slack_utils_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 1 of OpenSourceProjects/operationcode-master-RubyFiles/slack_utils_spec.rb - Syntax error at or near:
+	>>> ï <<< » ¿ require 'rails_helper' 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/mailchimp_inviter_job.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/mailchimp_inviter_job.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 4 of OpenSourceProjects/operationcode-master-RubyFiles/mailchimp_inviter_job.rb - Syntax error at or near:
+	
+ def perform ( email >>> : <<< , first_name : , last_name 
+=== OpenSourceProjects/operationcode-master-RubyFiles/boot.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 10
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 3
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 6
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 1
+paren_call_args: 1
+call_args: 3
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/user_mailer.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 10
+reference: 9
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 12
+varname: 7
+global_id: 0
+instance_id: 2
+operation: 3
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160720042822_add_bio_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 8
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/client.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/client.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/operationcode-master-RubyFiles/client.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/operationcode-master-RubyFiles/client.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 17 of OpenSourceProjects/operationcode-master-RubyFiles/client.rb - Syntax error at or near:
+	
+ def initialize ( subdomain >>> : <<< , token : ) 
+ 
+=== OpenSourceProjects/operationcode-master-RubyFiles/donation_mailer.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 10
+reference: 9
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 12
+varname: 7
+global_id: 0
+instance_id: 2
+operation: 3
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/test_helper.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 4
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 10
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 0
+command: 3
+class_inheritance: 0
+literal: 4
+string_literal: 7
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 12
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 5
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/operation_code.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/operation_code.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 6 of OpenSourceProjects/operationcode-master-RubyFiles/operation_code.rb - Syntax error at or near:
+	self . fetch_secret_with ( name >>> : <<< ) 
+ secret_path = Pathname 
+=== OpenSourceProjects/operationcode-master-RubyFiles/add_user_to_airtables_job_test.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 42
+reference: 62
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 11
+class_inheritance: 1
+literal: 11
+string_literal: 7
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 38
+identifier: 67
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 24
+function_call: 8
+paren_call_args: 8
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/veterans_helper.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 8
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 1
+command: 0
+class_inheritance: 0
+literal: 5
+string_literal: 5
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 2
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20141202222304_devise_create_admin_users.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 24
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 48
+reference: 58
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 17
+class_inheritance: 1
+literal: 24
+string_literal: 6
+numeric_literal: 1
+symbol_literal: 17
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 31
+identifier: 63
+varname: 25
+global_id: 0
+instance_id: 0
+operation: 36
+function_call: 1
+paren_call_args: 1
+call_args: 17
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/admin_user.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 1
+literal: 5
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 9
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mentor_test.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 14
+reference: 15
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 7
+class_inheritance: 1
+literal: 6
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 19
+varname: 3
+global_id: 0
+instance_id: 0
+operation: 14
+function_call: 4
+paren_call_args: 3
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/inflections.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/profile_controller.rb ===
+statements: 13
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 20
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 26
+reference: 25
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 1
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 5
+command: 10
+class_inheritance: 1
+literal: 8
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 25
+varname: 14
+global_id: 0
+instance_id: 9
+operation: 20
+function_call: 1
+paren_call_args: 1
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/rails_helper.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 12
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 6
+class_inheritance: 0
+literal: 5
+string_literal: 8
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 23
+varname: 13
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 3
+paren_call_args: 2
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20141202154156_create_veterans.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 13
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 7
+class_inheritance: 1
+literal: 6
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 6
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 24
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 14
+function_call: 0
+paren_call_args: 0
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/20160618200832_add_lat_long_to_veterans.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 7
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 6
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 6
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 12
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/mentor.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 10
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 1
+class_inheritance: 1
+literal: 3
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 8
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 4
+paren_call_args: 0
+call_args: 1
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/code_schools.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/code_schools.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 5 of OpenSourceProjects/operationcode-master-RubyFiles/code_schools.rb - Syntax error at or near:
+	config = Rails . root >>> + <<< 'config/code_schools.yml' ) 
+ raise unless 
+=== OpenSourceProjects/operationcode-master-RubyFiles/donation_test.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 1
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 3
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/factory_girl.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 5
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 0
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 8
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/operationcode-master-RubyFiles/application_helper.rb ===
+[OpenSourceProjects/operationcode-master-RubyFiles/application_helper.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 2 of OpenSourceProjects/operationcode-master-RubyFiles/application_helper.rb - Syntax error at or near:
+	
+ def card ( title >>> : <<< '' , icon : { 
+=== OpenSourceProjects/operationcode-master-RubyFiles/registrations_controller.rb ===
+statements: 14
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 26
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 30
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 6
+command: 12
+class_inheritance: 1
+literal: 7
+string_literal: 1
+numeric_literal: 1
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 43
+varname: 18
+global_id: 0
+instance_id: 8
+operation: 25
+function_call: 3
+paren_call_args: 3
+call_args: 12
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0

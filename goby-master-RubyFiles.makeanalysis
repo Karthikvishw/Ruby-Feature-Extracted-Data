@@ -1,0 +1,2828 @@
+=== OpenSourceProjects/goby-master-RubyFiles/escape_spec.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 20
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 16
+reference: 27
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 20
+class_inheritance: 0
+literal: 9
+string_literal: 6
+numeric_literal: 1
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 35
+varname: 11
+global_id: 0
+instance_id: 0
+operation: 24
+function_call: 1
+paren_call_args: 1
+call_args: 15
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/helmet.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/helmet.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/goby-master-RubyFiles/helmet.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Helmet" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/food_spec.rb ===
+statements: 26
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 47
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 77
+reference: 113
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 63
+class_inheritance: 0
+literal: 32
+string_literal: 13
+numeric_literal: 15
+symbol_literal: 5
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 56
+identifier: 126
+varname: 50
+global_id: 0
+instance_id: 0
+operation: 76
+function_call: 8
+paren_call_args: 8
+call_args: 60
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/food.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/food.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 13 of OpenSourceProjects/goby-master-RubyFiles/food.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Food" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/spec_helper.rb ===
+statements: 13
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 3
+block_vars: 3
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 31
+reference: 48
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 1
+command: 13
+class_inheritance: 0
+literal: 9
+string_literal: 6
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 43
+identifier: 54
+varname: 41
+global_id: 10
+instance_id: 0
+operation: 22
+function_call: 3
+paren_call_args: 2
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/fighter.rb ===
+statements: 37
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 73
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 6
+block_vars: 4
+statement_modifier: 4
+modifier: 4
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 85
+reference: 100
+yield_statement: 0
+if_statement: 1
+unless_statement: 1
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 15
+command: 36
+class_inheritance: 1
+literal: 13
+string_literal: 11
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 69
+identifier: 127
+varname: 65
+global_id: 0
+instance_id: 5
+operation: 60
+function_call: 10
+paren_call_args: 9
+call_args: 28
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/shop.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/shop.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 19 of OpenSourceProjects/goby-master-RubyFiles/shop.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Shop" , mode : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/tile_spec.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 11
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 79
+reference: 146
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 81
+class_inheritance: 0
+literal: 25
+string_literal: 24
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 93
+identifier: 175
+varname: 84
+global_id: 0
+instance_id: 0
+operation: 90
+function_call: 9
+paren_call_args: 9
+call_args: 71
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/chest.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/chest.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 12 of OpenSourceProjects/goby-master-RubyFiles/chest.rb - Syntax error at or near:
+	
+ def initialize ( mode >>> : <<< 0 , visible : true 
+=== OpenSourceProjects/goby-master-RubyFiles/world_command.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/world_command.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 8 of OpenSourceProjects/goby-master-RubyFiles/world_command.rb - Syntax error at or near:
+	# String literal providing default commands. 
+ DEFAULT_COMMANDS = 
+ >>> % <<< { Command Purpose 
+ 
+ 
+=== OpenSourceProjects/goby-master-RubyFiles/battle.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 33
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 58
+reference: 68
+yield_statement: 0
+if_statement: 2
+unless_statement: 0
+while_statement: 0
+until_statement: 1
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 4
+command: 15
+class_inheritance: 0
+literal: 17
+string_literal: 2
+numeric_literal: 8
+symbol_literal: 8
+array_literal: 7
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 40
+identifier: 67
+varname: 39
+global_id: 0
+instance_id: 2
+operation: 28
+function_call: 3
+paren_call_args: 2
+call_args: 12
+binary_op: 9
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 1
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/item.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/item.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/goby-master-RubyFiles/item.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Item" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/equippable_spec.rb ===
+statements: 38
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 64
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 101
+reference: 148
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 90
+class_inheritance: 0
+literal: 53
+string_literal: 10
+numeric_literal: 23
+symbol_literal: 21
+array_literal: 17
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 45
+identifier: 161
+varname: 41
+global_id: 0
+instance_id: 0
+operation: 120
+function_call: 9
+paren_call_args: 7
+call_args: 92
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/driver.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 25
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 27
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 1
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 3
+command: 16
+class_inheritance: 0
+literal: 4
+string_literal: 5
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 40
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 21
+function_call: 3
+paren_call_args: 3
+call_args: 15
+binary_op: 0
+unary_op: 1
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/legs.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/legs.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/goby-master-RubyFiles/legs.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Legs" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/driver_spec.rb ===
+statements: 13
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 7
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 11
+reference: 13
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 12
+class_inheritance: 0
+literal: 6
+string_literal: 6
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 2
+identifier: 15
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 0
+paren_call_args: 0
+call_args: 8
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/main.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 24
+reference: 29
+yield_statement: 0
+if_statement: 3
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 10
+class_inheritance: 0
+literal: 7
+string_literal: 6
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 27
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 3
+paren_call_args: 3
+call_args: 12
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/use_spec.rb ===
+statements: 30
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 42
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 56
+reference: 81
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 45
+class_inheritance: 0
+literal: 22
+string_literal: 13
+numeric_literal: 5
+symbol_literal: 5
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 35
+identifier: 81
+varname: 31
+global_id: 0
+instance_id: 1
+operation: 55
+function_call: 5
+paren_call_args: 5
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/music_spec.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 16
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 10
+class_inheritance: 0
+literal: 5
+string_literal: 4
+numeric_literal: 1
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 11
+identifier: 20
+varname: 10
+global_id: 0
+instance_id: 2
+operation: 12
+function_call: 1
+paren_call_args: 1
+call_args: 10
+binary_op: 1
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/monster.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/monster.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 17 of OpenSourceProjects/goby-master-RubyFiles/monster.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Monster" , stats : { 
+=== OpenSourceProjects/goby-master-RubyFiles/extension.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 36
+reference: 32
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 3
+module_definition: 0
+method_definition: 7
+command: 7
+class_inheritance: 0
+literal: 15
+string_literal: 12
+numeric_literal: 4
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 11
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 3
+paren_call_args: 2
+call_args: 9
+binary_op: 4
+unary_op: 1
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/scaffold.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 4
+block_vars: 3
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 30
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 1
+command: 7
+class_inheritance: 0
+literal: 18
+string_literal: 17
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 1
+here_document: 0
+variable: 16
+identifier: 27
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 1
+paren_call_args: 1
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/shield_spec.rb ===
+statements: 17
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 65
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 15
+string_literal: 7
+numeric_literal: 7
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 36
+identifier: 83
+varname: 30
+global_id: 0
+instance_id: 0
+operation: 53
+function_call: 1
+paren_call_args: 1
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/fighter_spec.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/fighter_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 9 of OpenSourceProjects/goby-master-RubyFiles/fighter_spec.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Fighter" , stats : { 
+=== OpenSourceProjects/goby-master-RubyFiles/entity.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/entity.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 24 of OpenSourceProjects/goby-master-RubyFiles/entity.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Entity" , stats : { 
+=== OpenSourceProjects/goby-master-RubyFiles/battle_command_spec.rb ===
+statements: 24
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 37
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 64
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 41
+class_inheritance: 0
+literal: 18
+string_literal: 18
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 38
+identifier: 84
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 48
+function_call: 6
+paren_call_args: 5
+call_args: 39
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/weapon.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/weapon.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 15 of OpenSourceProjects/goby-master-RubyFiles/weapon.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Weapon" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/music.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/music.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/goby-master-RubyFiles/music.rb - Syntax error at end of:
+	end 
+ 
+ end 
+ 
+=== OpenSourceProjects/goby-master-RubyFiles/attack.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/attack.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 11 of OpenSourceProjects/goby-master-RubyFiles/attack.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Attack" , strength : 1 
+=== OpenSourceProjects/goby-master-RubyFiles/map_spec.rb ===
+statements: 26
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 41
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 70
+reference: 109
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 57
+class_inheritance: 0
+literal: 35
+string_literal: 13
+numeric_literal: 22
+symbol_literal: 1
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 41
+identifier: 98
+varname: 29
+global_id: 0
+instance_id: 0
+operation: 69
+function_call: 11
+paren_call_args: 11
+call_args: 65
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/world_command_spec.rb ===
+statements: 85
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 148
+return_expression: 0
+yield_expression: 0
+iterator: 47
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 274
+reference: 401
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 139
+class_inheritance: 0
+literal: 106
+string_literal: 75
+numeric_literal: 27
+symbol_literal: 5
+array_literal: 11
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 174
+identifier: 368
+varname: 170
+global_id: 0
+instance_id: 1
+operation: 204
+function_call: 60
+paren_call_args: 47
+call_args: 164
+binary_op: 5
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/map.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/map.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 8 of OpenSourceProjects/goby-master-RubyFiles/map.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Map" , tiles : [ 
+=== OpenSourceProjects/goby-master-RubyFiles/chest_spec.rb ===
+statements: 55
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 86
+return_expression: 0
+yield_expression: 0
+iterator: 23
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 87
+reference: 155
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 104
+class_inheritance: 0
+literal: 33
+string_literal: 18
+numeric_literal: 11
+symbol_literal: 5
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 76
+identifier: 188
+varname: 72
+global_id: 0
+instance_id: 0
+operation: 121
+function_call: 12
+paren_call_args: 8
+call_args: 85
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/entity_spec.rb ===
+statements: 270
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 525
+return_expression: 0
+yield_expression: 0
+iterator: 94
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1022
+reference: 1564
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 667
+class_inheritance: 0
+literal: 455
+string_literal: 151
+numeric_literal: 245
+symbol_literal: 60
+array_literal: 111
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 686
+identifier: 1535
+varname: 678
+global_id: 0
+instance_id: 0
+operation: 856
+function_call: 129
+paren_call_args: 113
+call_args: 726
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/attack_spec.rb ===
+statements: 44
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 78
+return_expression: 0
+yield_expression: 0
+iterator: 22
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 128
+reference: 181
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 84
+class_inheritance: 0
+literal: 58
+string_literal: 25
+numeric_literal: 27
+symbol_literal: 7
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 82
+identifier: 194
+varname: 82
+global_id: 0
+instance_id: 0
+operation: 114
+function_call: 23
+paren_call_args: 22
+call_args: 92
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/player.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/player.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 30 of OpenSourceProjects/goby-master-RubyFiles/player.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Player" , stats : { 
+=== OpenSourceProjects/goby-master-RubyFiles/player_spec.rb ===
+statements: 220
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 379
+return_expression: 0
+yield_expression: 0
+iterator: 92
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 659
+reference: 1101
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 489
+class_inheritance: 0
+literal: 275
+string_literal: 112
+numeric_literal: 134
+symbol_literal: 30
+array_literal: 42
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 533
+identifier: 1118
+varname: 523
+global_id: 0
+instance_id: 0
+operation: 609
+function_call: 90
+paren_call_args: 85
+call_args: 479
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/helmet_spec.rb ===
+statements: 17
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 65
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 15
+string_literal: 7
+numeric_literal: 7
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 36
+identifier: 83
+varname: 30
+global_id: 0
+instance_id: 0
+operation: 53
+function_call: 1
+paren_call_args: 1
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/goby.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 29
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 29
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/item_spec.rb ===
+statements: 33
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 58
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 72
+reference: 117
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 80
+class_inheritance: 0
+literal: 28
+string_literal: 22
+numeric_literal: 6
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 69
+identifier: 150
+varname: 58
+global_id: 0
+instance_id: 0
+operation: 92
+function_call: 11
+paren_call_args: 10
+call_args: 73
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/util_spec.rb ===
+statements: 106
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 179
+return_expression: 0
+yield_expression: 0
+iterator: 58
+block_var: 4
+block_vars: 4
+statement_modifier: 3
+modifier: 3
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 219
+reference: 301
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 179
+class_inheritance: 0
+literal: 120
+string_literal: 85
+numeric_literal: 33
+symbol_literal: 3
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 104
+identifier: 312
+varname: 98
+global_id: 0
+instance_id: 0
+operation: 201
+function_call: 19
+paren_call_args: 12
+call_args: 162
+binary_op: 5
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/extension_spec.rb ===
+statements: 54
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 86
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 57
+reference: 127
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 152
+class_inheritance: 0
+literal: 47
+string_literal: 35
+numeric_literal: 13
+symbol_literal: 0
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 43
+identifier: 127
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 152
+function_call: 0
+paren_call_args: 0
+call_args: 119
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/shop_spec.rb ===
+statements: 144
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 205
+return_expression: 0
+yield_expression: 0
+iterator: 60
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 206
+reference: 333
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 234
+class_inheritance: 0
+literal: 97
+string_literal: 68
+numeric_literal: 23
+symbol_literal: 7
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 130
+identifier: 369
+varname: 121
+global_id: 0
+instance_id: 0
+operation: 260
+function_call: 19
+paren_call_args: 14
+call_args: 198
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/battle_spec.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/battle_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 9 of OpenSourceProjects/goby-master-RubyFiles/battle_spec.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Player" , stats : { 
+=== OpenSourceProjects/goby-master-RubyFiles/farm.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 12
+reference: 14
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 4
+string_literal: 2
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 14
+varname: 8
+global_id: 0
+instance_id: 1
+operation: 5
+function_call: 3
+paren_call_args: 3
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/torso_spec.rb ===
+statements: 17
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 65
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 15
+string_literal: 7
+numeric_literal: 7
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 36
+identifier: 83
+varname: 30
+global_id: 0
+instance_id: 0
+operation: 53
+function_call: 1
+paren_call_args: 1
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/equippable.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 34
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 58
+reference: 66
+yield_statement: 0
+if_statement: 2
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 6
+command: 13
+class_inheritance: 0
+literal: 14
+string_literal: 5
+numeric_literal: 2
+symbol_literal: 7
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 41
+identifier: 76
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 31
+function_call: 7
+paren_call_args: 7
+call_args: 16
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/goby-master-RubyFiles/util.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/util.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 55 of OpenSourceProjects/goby-master-RubyFiles/util.rb - Syntax error at or near:
+	
+ def player_input ( lowercase >>> : <<< true , prompt : '' 
+=== OpenSourceProjects/goby-master-RubyFiles/shield.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/shield.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/goby-master-RubyFiles/shield.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Shield" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/event_spec.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 29
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 48
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 37
+class_inheritance: 0
+literal: 13
+string_literal: 9
+numeric_literal: 3
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 25
+identifier: 64
+varname: 22
+global_id: 0
+instance_id: 0
+operation: 42
+function_call: 3
+paren_call_args: 2
+call_args: 30
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/use.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 16
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 18
+reference: 18
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 3
+command: 5
+class_inheritance: 1
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 13
+identifier: 26
+varname: 13
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 4
+paren_call_args: 3
+call_args: 5
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/npc.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/npc.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 12 of OpenSourceProjects/goby-master-RubyFiles/npc.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "NPC" , mode : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/monster_spec.rb ===
+statements: 82
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 135
+return_expression: 0
+yield_expression: 0
+iterator: 30
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 288
+reference: 432
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 184
+class_inheritance: 0
+literal: 113
+string_literal: 36
+numeric_literal: 59
+symbol_literal: 19
+array_literal: 23
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 203
+identifier: 422
+varname: 200
+global_id: 0
+instance_id: 0
+operation: 226
+function_call: 23
+paren_call_args: 23
+call_args: 175
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/legs_spec.rb ===
+statements: 17
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 65
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 15
+string_literal: 7
+numeric_literal: 7
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 36
+identifier: 83
+varname: 30
+global_id: 0
+instance_id: 0
+operation: 53
+function_call: 1
+paren_call_args: 1
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/battle_command.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/battle_command.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 11 of OpenSourceProjects/goby-master-RubyFiles/battle_command.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "BattleCommand" ) 
+ @name = 
+=== OpenSourceProjects/goby-master-RubyFiles/weapon_spec.rb ===
+statements: 41
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 68
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 91
+reference: 146
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 91
+class_inheritance: 0
+literal: 32
+string_literal: 14
+numeric_literal: 11
+symbol_literal: 8
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 76
+identifier: 176
+varname: 70
+global_id: 0
+instance_id: 0
+operation: 106
+function_call: 7
+paren_call_args: 6
+call_args: 79
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/tile.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/tile.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 18 of OpenSourceProjects/goby-master-RubyFiles/tile.rb - Syntax error at or near:
+	
+ def initialize ( passable >>> : <<< true , seen : false 
+=== OpenSourceProjects/goby-master-RubyFiles/torso.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/torso.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/goby-master-RubyFiles/torso.rb - Syntax error at or near:
+	
+ def initialize ( name >>> : <<< "Torso" , price : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/event.rb ===
+[OpenSourceProjects/goby-master-RubyFiles/event.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 12 of OpenSourceProjects/goby-master-RubyFiles/event.rb - Syntax error at or near:
+	
+ def initialize ( command >>> : <<< "event" , mode : 0 
+=== OpenSourceProjects/goby-master-RubyFiles/npc_spec.rb ===
+statements: 27
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 40
+return_expression: 0
+yield_expression: 0
+iterator: 13
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 36
+reference: 63
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 51
+class_inheritance: 0
+literal: 21
+string_literal: 16
+numeric_literal: 3
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 25
+identifier: 81
+varname: 22
+global_id: 0
+instance_id: 0
+operation: 59
+function_call: 5
+paren_call_args: 3
+call_args: 42
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/escape.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 16
+reference: 14
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 3
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 21
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 8
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/goby-master-RubyFiles/scaffold_spec.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 14
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 21
+reference: 32
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 19
+class_inheritance: 0
+literal: 15
+string_literal: 17
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 28
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 19
+function_call: 0
+paren_call_args: 0
+call_args: 17
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0

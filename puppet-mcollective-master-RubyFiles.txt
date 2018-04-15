@@ -1,0 +1,1204 @@
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/spec_helper.rb ===
+statements: 13
+undef_definition: 0
+alias_definition: 0
+require_definition: 5
+BEGIN_statement: 0
+END_statement: 0
+Expression: 25
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 1
+block_vars: 1
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 62
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 16
+class_inheritance: 0
+literal: 9
+string_literal: 14
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 39
+identifier: 57
+varname: 39
+global_id: 0
+instance_id: 0
+operation: 21
+function_call: 5
+paren_call_args: 5
+call_args: 19
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb ===
+[OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 275 of OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb - Syntax error at or near:
+	
+ it_behaves_like 'a refresh-mcollective-metadata file' , %r{File.rename\('#{mcollective_config_path} >>> /facts.yaml.new', '#{mcollective_config_path}/ <<< facts . yaml '\)}
+          end
+
+          context ' /tmp/ 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__actionpolicy__rule_spec.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 21
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 73
+reference: 81
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 12
+class_inheritance: 0
+literal: 46
+string_literal: 41
+numeric_literal: 0
+symbol_literal: 6
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 41
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 24
+function_call: 6
+paren_call_args: 6
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__client__setting_spec.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 48
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 13
+class_inheritance: 0
+literal: 20
+string_literal: 18
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 38
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 23
+function_call: 7
+paren_call_args: 7
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mco_version.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 6
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 3
+class_inheritance: 0
+literal: 1
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 6
+varname: 2
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__actionpolicy_spec.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 6
+class_inheritance: 0
+literal: 12
+string_literal: 11
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 21
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 1
+paren_call_args: 1
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/redis.rb ===
+statements: 68
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 124
+return_expression: 0
+yield_expression: 0
+iterator: 11
+block_var: 7
+block_vars: 5
+statement_modifier: 0
+modifier: 0
+rescue_statement: 4
+ensure_statement: 0
+return_statement: 0
+primary: 230
+reference: 286
+yield_statement: 0
+if_statement: 4
+unless_statement: 1
+while_statement: 1
+until_statement: 0
+case_statement: 1
+for_statement: 0
+class_definition: 2
+module_definition: 2
+method_definition: 12
+command: 42
+class_inheritance: 1
+literal: 76
+string_literal: 31
+numeric_literal: 3
+symbol_literal: 44
+array_literal: 18
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 173
+identifier: 236
+varname: 167
+global_id: 3
+instance_id: 53
+operation: 107
+function_call: 11
+paren_call_args: 9
+call_args: 41
+binary_op: 25
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 1
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__setting_spec.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 14
+return_expression: 0
+yield_expression: 0
+iterator: 7
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 23
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 10
+class_inheritance: 0
+literal: 14
+string_literal: 13
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 23
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 17
+function_call: 5
+paren_call_args: 5
+call_args: 12
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/coverage_spec.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 3
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 2
+class_inheritance: 0
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 1
+identifier: 4
+varname: 1
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 1
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mco_array_to_string.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 5
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 12
+reference: 15
+yield_statement: 0
+if_statement: 0
+unless_statement: 1
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 5
+class_inheritance: 0
+literal: 6
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 3
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 5
+identifier: 15
+varname: 5
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 2
+paren_call_args: 2
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__server__setting_spec.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 48
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 13
+class_inheritance: 0
+literal: 21
+string_literal: 19
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 38
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 23
+function_call: 7
+paren_call_args: 7
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__plugin_spec.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 46
+return_expression: 0
+yield_expression: 0
+iterator: 26
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 78
+reference: 95
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 37
+class_inheritance: 0
+literal: 40
+string_literal: 36
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 29
+identifier: 83
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 57
+function_call: 15
+paren_call_args: 15
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__user__setting_spec.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 43
+reference: 52
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 13
+class_inheritance: 0
+literal: 25
+string_literal: 22
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 39
+varname: 15
+global_id: 0
+instance_id: 0
+operation: 24
+function_call: 7
+paren_call_args: 7
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__user_spec.rb ===
+statements: 41
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 64
+return_expression: 0
+yield_expression: 0
+iterator: 32
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 100
+reference: 130
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 51
+class_inheritance: 0
+literal: 51
+string_literal: 43
+numeric_literal: 0
+symbol_literal: 9
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 41
+identifier: 124
+varname: 38
+global_id: 0
+instance_id: 0
+operation: 86
+function_call: 26
+paren_call_args: 26
+call_args: 59
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/spec_helper_system.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 47
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 17
+class_inheritance: 0
+literal: 19
+string_literal: 16
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 22
+identifier: 48
+varname: 21
+global_id: 0
+instance_id: 0
+operation: 26
+function_call: 4
+paren_call_args: 4
+call_args: 20
+binary_op: 4
+unary_op: 0
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__common__setting_spec.rb ===
+statements: 21
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 33
+return_expression: 0
+yield_expression: 0
+iterator: 16
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 61
+reference: 77
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 24
+class_inheritance: 0
+literal: 34
+string_literal: 30
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 19
+identifier: 62
+varname: 19
+global_id: 0
+instance_id: 0
+operation: 43
+function_call: 14
+paren_call_args: 14
+call_args: 30
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/none.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 5
+command: 7
+class_inheritance: 1
+literal: 2
+string_literal: 3
+numeric_literal: 1
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 43
+varname: 16
+global_id: 0
+instance_id: 2
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/end_to_end_spec.rb ===
+statements: 29
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 38
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 60
+reference: 72
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 22
+class_inheritance: 0
+literal: 28
+string_literal: 14
+numeric_literal: 1
+symbol_literal: 8
+array_literal: 0
+regular_expression: 6
+command_output: 0
+here_document: 0
+variable: 24
+identifier: 68
+varname: 24
+global_id: 0
+instance_id: 0
+operation: 44
+function_call: 14
+paren_call_args: 14
+call_args: 36
+binary_op: 7
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/actionpolicy.rb ===
+[OpenSourceProjects/puppet-mcollective-master-RubyFiles/actionpolicy.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/puppet-mcollective-master-RubyFiles/actionpolicy.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 

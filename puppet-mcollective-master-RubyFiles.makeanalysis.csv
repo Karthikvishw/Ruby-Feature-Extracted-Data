@@ -1,0 +1,54 @@
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/spec_helper.rb ===
+statements,undef_definition,alias_definition,require_definition,BEGIN_statement,END_statement,Expression,return_expression,yield_expression,iterator,block_var,block_vars,statement_modifier,modifier,rescue_statement,ensure_statement,return_statement,primary,reference,yield_statement,if_statement,unless_statement,while_statement,until_statement,case_statement,for_statement,class_definition,module_definition,method_definition,command,class_inheritance,literal,string_literal,numeric_literal,symbol_literal,array_literal,regular_expression,command_output,here_document,variable,identifier,varname,global_id,instance_id,operation,function_call,paren_call_args,call_args,binary_op,unary_op,Include statement,Respond To statement,Method Missing statement,Define Method statement,Attr Reader statement,Attr Writer statement,Attr Accessor statement,Instance Variable Get statement,Instance Variable Set statement,Class Variable Get statement,Class Variable Set statement,Const Get statement,Const Set statement,Eval statement,Class Eval statement,Module Eval statement,Instance Eval statement,Instance Exec statement,Send statement
+13,0,0,5,0,0,25,0,0,2,1,1,2,2,0,0,0,39,62,0,1,0,0,0,0,0,0,0,0,16,0,9,14,0,0,1,0,0,0,39,57,39,0,0,21,5,5,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective_spec.rb ===
+15,0,0,1,0,0,21,0,0,10,0,0,0,0,0,0,0,73,81,0,0,0,0,0,0,0,0,0,0,12,0,46,41,0,6,3,0,0,0,17,41,17,0,0,24,6,6,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__client__setting_spec.rb ===
+12,0,0,1,0,0,18,0,0,9,0,0,0,0,0,0,0,39,48,0,0,0,0,0,0,0,0,0,0,13,0,20,18,0,3,2,0,0,0,15,38,15,0,0,23,7,7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mco_version.rb ===
+6,0,0,1,0,0,6,0,0,2,0,0,0,0,1,0,0,6,6,0,0,0,0,0,0,0,0,0,0,3,0,1,2,0,0,0,0,0,0,3,6,2,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__actionpolicy_spec.rb ===
+7,0,0,1,0,0,9,0,0,5,0,0,0,0,0,0,0,25,28,0,0,0,0,0,0,0,0,0,0,6,0,12,11,0,2,1,0,0,0,12,21,12,0,0,9,1,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/redis.rb ===
+68,0,0,2,0,0,124,0,0,11,7,5,0,0,4,0,0,230,286,0,4,1,1,0,1,0,2,2,12,42,1,76,31,3,44,18,0,0,0,173,236,167,3,53,107,11,9,41,25,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__setting_spec.rb ===
+10,0,0,1,0,0,14,0,0,7,0,0,0,0,0,0,0,23,28,0,0,0,0,0,0,0,0,0,0,10,0,14,13,0,2,0,0,0,0,6,23,6,0,0,17,5,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/coverage_spec.rb ===
+2,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,4,1,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mco_array_to_string.rb ===
+3,0,0,0,0,0,5,0,0,1,1,1,0,0,0,0,0,12,15,0,0,1,0,0,0,0,0,0,0,5,0,6,1,2,3,2,0,0,0,5,15,5,0,0,10,2,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__server__setting_spec.rb ===
+12,0,0,1,0,0,18,0,0,9,0,0,0,0,0,0,0,39,48,0,0,0,0,0,0,0,0,0,0,13,0,21,19,0,3,1,0,0,0,15,38,15,0,0,23,7,7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__plugin_spec.rb ===
+31,0,0,1,0,0,46,0,0,26,0,0,0,0,0,0,0,78,95,0,0,0,0,0,0,0,0,0,0,37,0,40,36,0,5,3,0,0,0,29,83,26,0,0,57,15,15,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__user__setting_spec.rb ===
+12,0,0,1,0,0,18,0,0,9,0,0,0,0,0,0,0,43,52,0,0,0,0,0,0,0,0,0,0,13,0,25,22,0,4,1,0,0,0,15,39,15,0,0,24,7,7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__user_spec.rb ===
+41,0,0,1,0,0,64,0,0,32,1,1,0,0,0,0,0,100,130,0,0,0,0,0,0,0,0,0,0,51,0,51,43,0,9,3,0,0,0,41,124,38,0,0,86,26,26,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/spec_helper_system.rb ===
+7,0,0,2,0,0,19,0,0,2,1,1,0,0,0,0,0,38,47,0,0,0,0,0,0,0,0,0,0,17,0,19,16,0,5,0,0,0,0,22,48,21,0,0,26,4,4,20,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/mcollective__common__setting_spec.rb ===
+21,0,0,1,0,0,33,0,0,16,0,0,0,0,0,0,0,61,77,0,0,0,0,0,0,0,0,0,0,24,0,34,30,0,5,3,0,0,0,19,62,19,0,0,43,14,14,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/none.rb ===
+12,0,0,2,0,0,18,0,0,0,0,0,0,0,0,0,0,27,24,0,0,0,0,0,0,0,1,2,5,7,1,2,3,1,0,0,0,0,0,18,43,16,0,2,13,2,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/end_to_end_spec.rb ===
+29,0,0,1,0,0,38,0,0,20,0,0,0,0,0,0,0,60,72,0,0,0,0,0,0,0,0,0,0,22,0,28,14,1,8,0,6,0,0,24,68,24,0,0,44,14,14,36,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INPUT: 
+=== OpenSourceProjects/puppet-mcollective-master-RubyFiles/actionpolicy.rb ===

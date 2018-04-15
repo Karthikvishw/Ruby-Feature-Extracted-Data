@@ -1,0 +1,3294 @@
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/net_ssh_test.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 5
+string_literal: 4
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 30
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/patron_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 26
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 34
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 0
+paren_call_args: 0
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/connection_pool_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 14
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 6
+class_inheritance: 1
+literal: 4
+string_literal: 1
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 19
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 8
+function_call: 1
+paren_call_args: 1
+call_args: 5
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/geocoder_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 35
+reference: 36
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 9
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 36
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 15
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/activemerchant_test.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 20
+reference: 29
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 10
+class_inheritance: 1
+literal: 7
+string_literal: 4
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 36
+varname: 14
+global_id: 0
+instance_id: 5
+operation: 14
+function_call: 1
+paren_call_args: 1
+call_args: 9
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/koala_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 36
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 20
+identifier: 44
+varname: 20
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/firebase_test.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 13
+reference: 17
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 4
+class_inheritance: 1
+literal: 5
+string_literal: 4
+numeric_literal: 1
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 19
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 7
+function_call: 2
+paren_call_args: 2
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/rest_client_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 23
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 30
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/mechanize_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 15
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 30
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 11
+function_call: 0
+paren_call_args: 0
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/bitly_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 25
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 12
+class_inheritance: 1
+literal: 9
+string_literal: 7
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 28
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 16
+function_call: 2
+paren_call_args: 2
+call_args: 12
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/net_http_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 12
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 21
+reference: 21
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 27
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 12
+function_call: 3
+paren_call_args: 3
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/mongoid_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 45
+reference: 54
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 9
+string_literal: 3
+numeric_literal: 4
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 26
+identifier: 46
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/pg_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 18
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 5
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 24
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 0
+paren_call_args: 0
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/httparty_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 16
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 5
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 20
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 2
+paren_call_args: 2
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/mail_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 13
+class_inheritance: 1
+literal: 9
+string_literal: 5
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 33
+varname: 14
+global_id: 0
+instance_id: 5
+operation: 19
+function_call: 1
+paren_call_args: 0
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/rsolr_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 7
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 26
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 15
+function_call: 2
+paren_call_args: 2
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/twilio_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 35
+reference: 50
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 12
+string_literal: 9
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 29
+identifier: 45
+varname: 25
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 4
+paren_call_args: 4
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/net_smtp_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 4
+string_literal: 2
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 37
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/bunny_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 21
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 5
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 27
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 0
+paren_call_args: 0
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/activerecord_test.rb ===
+statements: 33
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 11
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 132
+reference: 154
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 10
+command: 57
+class_inheritance: 1
+literal: 42
+string_literal: 28
+numeric_literal: 14
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 56
+identifier: 167
+varname: 56
+global_id: 0
+instance_id: 0
+operation: 78
+function_call: 11
+paren_call_args: 11
+call_args: 64
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/sequel_test.rb ===
+statements: 20
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 29
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 75
+reference: 76
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 6
+command: 17
+class_inheritance: 1
+literal: 20
+string_literal: 12
+numeric_literal: 8
+symbol_literal: 0
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 39
+identifier: 75
+varname: 39
+global_id: 0
+instance_id: 0
+operation: 27
+function_call: 4
+paren_call_args: 4
+call_args: 21
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/mongo_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 29
+reference: 36
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 9
+string_literal: 1
+numeric_literal: 6
+symbol_literal: 2
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 34
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/faraday_test.rb ===
+statements: 20
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 25
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 37
+reference: 42
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 4
+command: 15
+class_inheritance: 1
+literal: 9
+string_literal: 3
+numeric_literal: 6
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 48
+varname: 18
+global_id: 0
+instance_id: 0
+operation: 21
+function_call: 2
+paren_call_args: 2
+call_args: 15
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/net_dns_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 32
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 4
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 34
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 4
+paren_call_args: 4
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/ruby_kafka_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 5
+class_inheritance: 1
+literal: 7
+string_literal: 6
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 26
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 11
+function_call: 4
+paren_call_args: 4
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/actionmailer_test.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 20
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 35
+reference: 37
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 0
+method_definition: 4
+command: 12
+class_inheritance: 2
+literal: 8
+string_literal: 6
+numeric_literal: 2
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 49
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 17
+function_call: 0
+paren_call_args: 0
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/hipchat_test.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 32
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 9
+class_inheritance: 1
+literal: 6
+string_literal: 5
+numeric_literal: 1
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 35
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 14
+function_call: 2
+paren_call_args: 2
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/curb_test.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 23
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 31
+reference: 41
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 4
+command: 10
+class_inheritance: 1
+literal: 6
+string_literal: 1
+numeric_literal: 5
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 27
+identifier: 53
+varname: 27
+global_id: 0
+instance_id: 0
+operation: 18
+function_call: 4
+paren_call_args: 3
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/redis_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 23
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 7
+string_literal: 1
+numeric_literal: 4
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 28
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 0
+paren_call_args: 0
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/dalli_test.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 27
+reference: 29
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 10
+class_inheritance: 1
+literal: 7
+string_literal: 4
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 34
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 19
+function_call: 6
+paren_call_args: 6
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/em_http_request_test.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 11
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 20
+identifier: 40
+varname: 20
+global_id: 0
+instance_id: 0
+operation: 15
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/httpi_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 21
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 28
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/test_helper.rb ===
+[OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/test_helper.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 9 of OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/test_helper.rb - Syntax error at or near:
+	exception = UnknownTimeoutError , timeout >>> : <<< 1 ) 
+ started_at = 
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/aws_sdk_test.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 24
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 44
+reference: 63
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 4
+command: 17
+class_inheritance: 1
+literal: 11
+string_literal: 4
+numeric_literal: 5
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 33
+identifier: 71
+varname: 33
+global_id: 0
+instance_id: 0
+operation: 27
+function_call: 4
+paren_call_args: 4
+call_args: 21
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/excon_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 18
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 5
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 22
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 2
+paren_call_args: 2
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/kubeclient_test.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 2
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 1
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 4
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/google_cloud_test.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 30
+reference: 42
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 9
+class_inheritance: 1
+literal: 10
+string_literal: 7
+numeric_literal: 4
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 26
+identifier: 47
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 14
+function_call: 2
+paren_call_args: 2
+call_args: 8
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/elasticsearch_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 31
+reference: 34
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 36
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/gibbon_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 23
+reference: 26
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 30
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 11
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/mysql2_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 22
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 4
+string_literal: 2
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 27
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 12
+function_call: 3
+paren_call_args: 3
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/stripe_test.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 7
+class_inheritance: 1
+literal: 4
+string_literal: 2
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 9
+identifier: 31
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 0
+paren_call_args: 0
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/open_uri_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 14
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 5
+class_inheritance: 1
+literal: 3
+string_literal: 2
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 18
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 2
+paren_call_args: 2
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/http_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 15
+reference: 16
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 22
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 13
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/typhoeus_test.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 8
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 17
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 4
+class_inheritance: 1
+literal: 4
+string_literal: 1
+numeric_literal: 3
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 9
+identifier: 21
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 12
+function_call: 6
+paren_call_args: 3
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/slack_notifier_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 13
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 23
+reference: 26
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 7
+class_inheritance: 1
+literal: 5
+string_literal: 3
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 30
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 11
+function_call: 2
+paren_call_args: 2
+call_args: 9
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/searchkick_test.rb ===
+statements: 9
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 26
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 7
+class_inheritance: 1
+literal: 4
+string_literal: 4
+numeric_literal: 1
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 16
+identifier: 32
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 10
+function_call: 0
+paren_call_args: 0
+call_args: 5
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/twitter_test.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 31
+reference: 42
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 11
+class_inheritance: 1
+literal: 9
+string_literal: 5
+numeric_literal: 2
+symbol_literal: 2
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 46
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 21
+function_call: 6
+paren_call_args: 6
+call_args: 17
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 2
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 2
+=== OpenSourceProjects/the-ultimate-guide-to-ruby-timeouts-master-RubyFiles/httpclient_test.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 15
+reference: 18
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 3
+string_literal: 1
+numeric_literal: 2
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 28
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 11
+function_call: 0
+paren_call_args: 0
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0

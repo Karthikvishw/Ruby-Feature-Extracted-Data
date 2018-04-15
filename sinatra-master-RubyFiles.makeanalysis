@@ -1,0 +1,6861 @@
+=== OpenSourceProjects/sinatra-master-RubyFiles/respond_with_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/respond_with_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/respond_with_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/respond_with_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 231 of OpenSourceProjects/sinatra-master-RubyFiles/respond_with_spec.rb - Syntax error at or near:
+	. to eq ( "\" >>> yajl! <<< \ "" ) 
+ end 
+=== OpenSourceProjects/sinatra-master-RubyFiles/base.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/base.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 34 of OpenSourceProjects/sinatra-master-RubyFiles/base.rb - Syntax error at or near:
+	scan ( HEADER_VALUE_WITH_PARAMS ) . >>> 
+ <<< map! { | e | 
+=== OpenSourceProjects/sinatra-master-RubyFiles/integration_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/integration_test.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/integration_test.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/integration_test.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/sinatra-master-RubyFiles/integration_test.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/protection.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 54
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 14
+modifier: 14
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 91
+reference: 134
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 1
+command: 48
+class_inheritance: 0
+literal: 51
+string_literal: 18
+numeric_literal: 0
+symbol_literal: 35
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 66
+identifier: 155
+varname: 64
+global_id: 0
+instance_id: 0
+operation: 86
+function_call: 2
+paren_call_args: 1
+call_args: 49
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/creole_test.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 57
+return_expression: 0
+yield_expression: 0
+iterator: 19
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 68
+reference: 67
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 43
+class_inheritance: 1
+literal: 39
+string_literal: 29
+numeric_literal: 0
+symbol_literal: 11
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 73
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 63
+function_call: 8
+paren_call_args: 3
+call_args: 39
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/liquid_test.rb ===
+statements: 37
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 67
+return_expression: 0
+yield_expression: 0
+iterator: 24
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 82
+reference: 81
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 51
+class_inheritance: 1
+literal: 46
+string_literal: 34
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 86
+varname: 13
+global_id: 0
+instance_id: 0
+operation: 74
+function_call: 9
+paren_call_args: 3
+call_args: 46
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/xss_header_spec.rb ===
+statements: 23
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 38
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 92
+reference: 117
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 46
+class_inheritance: 0
+literal: 58
+string_literal: 55
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 8
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 80
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 66
+function_call: 17
+paren_call_args: 17
+call_args: 61
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/spec_helper.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 4
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 4
+reference: 9
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 3
+class_inheritance: 0
+literal: 3
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 11
+varname: 7
+global_id: 0
+instance_id: 0
+operation: 4
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/compile_test.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 103
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 441
+reference: 443
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 94
+class_inheritance: 1
+literal: 373
+string_literal: 358
+numeric_literal: 0
+symbol_literal: 15
+array_literal: 7
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 37
+identifier: 159
+varname: 23
+global_id: 0
+instance_id: 0
+operation: 120
+function_call: 8
+paren_call_args: 6
+call_args: 98
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 3
+=== OpenSourceProjects/sinatra-master-RubyFiles/builder_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/builder_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 19 of OpenSourceProjects/sinatra-master-RubyFiles/builder_test.rb - Syntax error at or near:
+	ok? 
+ assert_equal % { >>> < <<< ?x ml version = "1.0" 
+=== OpenSourceProjects/sinatra-master-RubyFiles/radius_test.rb ===
+statements: 25
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 48
+return_expression: 0
+yield_expression: 0
+iterator: 16
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 62
+reference: 61
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 39
+class_inheritance: 1
+literal: 32
+string_literal: 27
+numeric_literal: 0
+symbol_literal: 6
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 13
+identifier: 67
+varname: 13
+global_id: 0
+instance_id: 0
+operation: 54
+function_call: 8
+paren_call_args: 3
+call_args: 35
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/json.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 26
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 40
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 5
+command: 17
+class_inheritance: 1
+literal: 8
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 7
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 20
+identifier: 60
+varname: 20
+global_id: 0
+instance_id: 0
+operation: 31
+function_call: 3
+paren_call_args: 3
+call_args: 17
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/json_csrf.rb ===
+statements: 14
+undef_definition: 0
+alias_definition: 1
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 35
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 5
+modifier: 5
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 52
+reference: 59
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 4
+command: 17
+class_inheritance: 1
+literal: 9
+string_literal: 4
+numeric_literal: 1
+symbol_literal: 4
+array_literal: 4
+regular_expression: 1
+command_output: 0
+here_document: 0
+variable: 38
+identifier: 71
+varname: 34
+global_id: 0
+instance_id: 0
+operation: 32
+function_call: 8
+paren_call_args: 7
+call_args: 19
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/respond_with.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/respond_with.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/respond_with.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/respond_with.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 202 of OpenSourceProjects/sinatra-master-RubyFiles/respond_with.rb - Syntax error at or near:
+	
+ def mime_type ( * >>> ) <<< 
+ result = super 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/cookie_tossing.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 43
+return_expression: 0
+yield_expression: 0
+iterator: 5
+block_var: 6
+block_vars: 5
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 76
+reference: 92
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 8
+command: 16
+class_inheritance: 1
+literal: 18
+string_literal: 10
+numeric_literal: 3
+symbol_literal: 6
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 1
+variable: 73
+identifier: 118
+varname: 73
+global_id: 0
+instance_id: 2
+operation: 39
+function_call: 11
+paren_call_args: 10
+call_args: 17
+binary_op: 8
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/path_traversal_spec.rb ===
+statements: 26
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 35
+return_expression: 0
+yield_expression: 0
+iterator: 14
+block_var: 5
+block_vars: 4
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 71
+reference: 96
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 28
+class_inheritance: 0
+literal: 43
+string_literal: 36
+numeric_literal: 6
+symbol_literal: 1
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 27
+identifier: 63
+varname: 27
+global_id: 0
+instance_id: 2
+operation: 39
+function_call: 10
+paren_call_args: 8
+call_args: 28
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/rack-protection.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 0
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 0
+reference: 0
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 0
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/cookies_spec.rb ===
+statements: 427
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 730
+return_expression: 0
+yield_expression: 0
+iterator: 240
+block_var: 41
+block_vars: 29
+statement_modifier: 8
+modifier: 8
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 950
+reference: 1250
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 2
+command: 669
+class_inheritance: 0
+literal: 568
+string_literal: 478
+numeric_literal: 6
+symbol_literal: 85
+array_literal: 51
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 392
+identifier: 1219
+varname: 352
+global_id: 0
+instance_id: 5
+operation: 908
+function_call: 155
+paren_call_args: 150
+call_args: 687
+binary_op: 19
+unary_op: 0
+Include statement: 17
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 1
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/rack_monkey_patches.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 31
+reference: 47
+yield_statement: 0
+if_statement: 2
+unless_statement: 1
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 1
+command: 9
+class_inheritance: 0
+literal: 7
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 34
+identifier: 47
+varname: 32
+global_id: 0
+instance_id: 1
+operation: 17
+function_call: 4
+paren_call_args: 3
+call_args: 11
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/escaped_params.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/escaped_params.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 35 of OpenSourceProjects/sinatra-master-RubyFiles/escaped_params.rb - Syntax error at or near:
+	
+ def initialize ( * >>> ) <<< 
+ super 
+ 
+ modes 
+=== OpenSourceProjects/sinatra-master-RubyFiles/test_helpers.rb ===
+statements: 21
+undef_definition: 0
+alias_definition: 1
+require_definition: 4
+BEGIN_statement: 0
+END_statement: 0
+Expression: 53
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 2
+ensure_statement: 0
+return_statement: 0
+primary: 95
+reference: 100
+yield_statement: 0
+if_statement: 0
+unless_statement: 2
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 11
+command: 26
+class_inheritance: 1
+literal: 33
+string_literal: 9
+numeric_literal: 0
+symbol_literal: 28
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 57
+identifier: 133
+varname: 53
+global_id: 0
+instance_id: 6
+operation: 73
+function_call: 10
+paren_call_args: 9
+call_args: 32
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 1
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 2
+=== OpenSourceProjects/sinatra-master-RubyFiles/delegator_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/delegator_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 111 of OpenSourceProjects/sinatra-master-RubyFiles/delegator_test.rb - Syntax error at or near:
+	respond_to? ( method , * >>> ) <<< 
+ method . to_sym == 
+=== OpenSourceProjects/sinatra-master-RubyFiles/coffee_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/coffee_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 55 of OpenSourceProjects/sinatra-master-RubyFiles/coffee_test.rb - Syntax error at or near:
+	
+ assert_include body , "alert(\" >>> Aye! <<< \ ");" 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/custom_logger_spec.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 25
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 25
+reference: 34
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 21
+class_inheritance: 0
+literal: 15
+string_literal: 14
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 40
+varname: 17
+global_id: 0
+instance_id: 5
+operation: 28
+function_call: 4
+paren_call_args: 4
+call_args: 19
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/simple.rb ===
+statements: 3
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 3
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 1
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/session_hijacking_spec.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 44
+return_expression: 0
+yield_expression: 0
+iterator: 8
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 123
+reference: 132
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 44
+class_inheritance: 0
+literal: 78
+string_literal: 60
+numeric_literal: 0
+symbol_literal: 18
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 29
+identifier: 93
+varname: 29
+global_id: 0
+instance_id: 0
+operation: 64
+function_call: 2
+paren_call_args: 2
+call_args: 41
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/path_traversal.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/path_traversal.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/sinatra-master-RubyFiles/path_traversal.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/ip_spoofing.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 19
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 3
+modifier: 3
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 1
+command: 9
+class_inheritance: 1
+literal: 8
+string_literal: 7
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 1
+command_output: 0
+here_document: 0
+variable: 13
+identifier: 17
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 1
+paren_call_args: 1
+call_args: 10
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/sinatra.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 2
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/namespace.rb ===
+statements: 61
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 141
+return_expression: 0
+yield_expression: 0
+iterator: 14
+block_var: 13
+block_vars: 10
+statement_modifier: 13
+modifier: 13
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 221
+reference: 242
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 6
+method_definition: 27
+command: 59
+class_inheritance: 0
+literal: 33
+string_literal: 6
+numeric_literal: 1
+symbol_literal: 25
+array_literal: 5
+regular_expression: 4
+command_output: 0
+here_document: 0
+variable: 198
+identifier: 332
+varname: 182
+global_id: 0
+instance_id: 21
+operation: 132
+function_call: 27
+paren_call_args: 22
+call_args: 62
+binary_op: 15
+unary_op: 0
+Include statement: 4
+Respond To statement: 2
+Method Missing statement: 1
+Define Method statement: 2
+Attr Reader statement: 1
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 2
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 5
+=== OpenSourceProjects/sinatra-master-RubyFiles/main.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 29
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 5
+block_vars: 5
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 52
+reference: 68
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 1
+method_definition: 0
+command: 15
+class_inheritance: 1
+literal: 20
+string_literal: 14
+numeric_literal: 0
+symbol_literal: 8
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 37
+identifier: 67
+varname: 35
+global_id: 3
+instance_id: 0
+operation: 36
+function_call: 13
+paren_call_args: 8
+call_args: 20
+binary_op: 4
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/content_for_spec.rb ===
+statements: 184
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 277
+return_expression: 0
+yield_expression: 0
+iterator: 83
+block_var: 5
+block_vars: 4
+statement_modifier: 0
+modifier: 0
+rescue_statement: 2
+ensure_statement: 0
+return_statement: 0
+primary: 361
+reference: 431
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 2
+command: 211
+class_inheritance: 0
+literal: 206
+string_literal: 114
+numeric_literal: 6
+symbol_literal: 82
+array_literal: 1
+regular_expression: 5
+command_output: 0
+here_document: 0
+variable: 82
+identifier: 430
+varname: 81
+global_id: 0
+instance_id: 0
+operation: 346
+function_call: 51
+paren_call_args: 50
+call_args: 244
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/streaming.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/streaming.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 79 of OpenSourceProjects/sinatra-master-RubyFiles/streaming.rb - Syntax error at or near:
+	
+ def stream ( * >>> ) <<< 
+ stream = super 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/cookie_tossing_spec.rb ===
+statements: 28
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 51
+return_expression: 0
+yield_expression: 0
+iterator: 16
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 69
+reference: 89
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 57
+class_inheritance: 0
+literal: 42
+string_literal: 36
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 1
+variable: 26
+identifier: 91
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 65
+function_call: 3
+paren_call_args: 3
+call_args: 49
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/server_test.rb ===
+statements: 24
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 52
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 72
+reference: 78
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 3
+module_definition: 1
+method_definition: 8
+command: 28
+class_inheritance: 1
+literal: 26
+string_literal: 15
+numeric_literal: 3
+symbol_literal: 7
+array_literal: 1
+regular_expression: 2
+command_output: 0
+here_document: 0
+variable: 49
+identifier: 74
+varname: 39
+global_id: 4
+instance_id: 13
+operation: 48
+function_call: 6
+paren_call_args: 5
+call_args: 30
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/mediawiki_test.rb ===
+statements: 32
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 75
+reference: 76
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 45
+class_inheritance: 1
+literal: 42
+string_literal: 30
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 14
+identifier: 81
+varname: 14
+global_id: 0
+instance_id: 0
+operation: 67
+function_call: 8
+paren_call_args: 3
+call_args: 41
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/textile_test.rb ===
+statements: 35
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 61
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 73
+reference: 72
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 42
+class_inheritance: 1
+literal: 40
+string_literal: 29
+numeric_literal: 0
+symbol_literal: 12
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 75
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 65
+function_call: 10
+paren_call_args: 5
+call_args: 39
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/stylus_test.rb ===
+statements: 30
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 65
+return_expression: 0
+yield_expression: 0
+iterator: 18
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 2
+ensure_statement: 0
+return_statement: 0
+primary: 97
+reference: 100
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 55
+class_inheritance: 1
+literal: 46
+string_literal: 35
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 25
+identifier: 102
+varname: 23
+global_id: 0
+instance_id: 0
+operation: 82
+function_call: 13
+paren_call_args: 5
+call_args: 54
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/helper.rb ===
+statements: 32
+undef_definition: 0
+alias_definition: 0
+require_definition: 6
+BEGIN_statement: 0
+END_statement: 0
+Expression: 81
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 1
+block_vars: 1
+statement_modifier: 5
+modifier: 5
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 154
+reference: 170
+yield_statement: 0
+if_statement: 3
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 4
+module_definition: 0
+method_definition: 16
+command: 37
+class_inheritance: 1
+literal: 48
+string_literal: 27
+numeric_literal: 3
+symbol_literal: 21
+array_literal: 1
+regular_expression: 3
+command_output: 0
+here_document: 0
+variable: 94
+identifier: 201
+varname: 92
+global_id: 7
+instance_id: 7
+operation: 95
+function_call: 24
+paren_call_args: 23
+call_args: 52
+binary_op: 4
+unary_op: 0
+Include statement: 2
+Respond To statement: 0
+Method Missing statement: 1
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 1
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/indifferent_hash.rb ===
+statements: 59
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 93
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 2
+block_vars: 1
+statement_modifier: 4
+modifier: 4
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 126
+reference: 125
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 1
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 21
+command: 54
+class_inheritance: 1
+literal: 20
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 20
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 47
+identifier: 139
+varname: 38
+global_id: 0
+instance_id: 0
+operation: 96
+function_call: 24
+paren_call_args: 22
+call_args: 61
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/dummy_app.rb ===
+statements: 4
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 6
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 19
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 1
+command: 1
+class_inheritance: 0
+literal: 9
+string_literal: 7
+numeric_literal: 1
+symbol_literal: 1
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 7
+identifier: 11
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 3
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/extension.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/extension.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 91 of OpenSourceProjects/sinatra-master-RubyFiles/extension.rb - Syntax error at or near:
+	
+ def method_missing ( * >>> ) <<< fail "not supposed to use result of #@method!" end 
+ def 
+=== OpenSourceProjects/sinatra-master-RubyFiles/form_token_spec.rb ===
+statements: 29
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 47
+return_expression: 0
+yield_expression: 0
+iterator: 13
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 81
+reference: 94
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 41
+class_inheritance: 0
+literal: 37
+string_literal: 32
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 27
+identifier: 80
+varname: 27
+global_id: 0
+instance_id: 0
+operation: 53
+function_call: 7
+paren_call_args: 7
+call_args: 40
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/frame_options.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 15
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 22
+reference: 24
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 2
+command: 4
+class_inheritance: 1
+literal: 6
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 20
+identifier: 33
+varname: 20
+global_id: 0
+instance_id: 2
+operation: 12
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/decompile.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 3
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 3
+reference: 2
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 1
+command: 2
+class_inheritance: 0
+literal: 2
+string_literal: 2
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 3
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/multi_route.rb ===
+statements: 14
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 28
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 61
+reference: 59
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 9
+command: 4
+class_inheritance: 0
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 46
+identifier: 85
+varname: 46
+global_id: 0
+instance_id: 0
+operation: 20
+function_call: 15
+paren_call_args: 15
+call_args: 17
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/json_spec.rb ===
+statements: 93
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 140
+return_expression: 0
+yield_expression: 0
+iterator: 45
+block_var: 2
+block_vars: 1
+statement_modifier: 2
+modifier: 2
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 183
+reference: 206
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 6
+command: 102
+class_inheritance: 0
+literal: 100
+string_literal: 81
+numeric_literal: 8
+symbol_literal: 14
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 53
+identifier: 190
+varname: 49
+global_id: 0
+instance_id: 3
+operation: 139
+function_call: 18
+paren_call_args: 18
+call_args: 102
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 1
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/encoding_test.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 16
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 28
+reference: 40
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 12
+class_inheritance: 1
+literal: 13
+string_literal: 10
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 31
+varname: 15
+global_id: 0
+instance_id: 5
+operation: 22
+function_call: 8
+paren_call_args: 6
+call_args: 15
+binary_op: 1
+unary_op: 1
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/integration_helper.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/integration_helper.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/integration_helper.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/integration_helper.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/sinatra-master-RubyFiles/integration_helper.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/erb_test.rb ===
+statements: 49
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 96
+return_expression: 0
+yield_expression: 0
+iterator: 29
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 115
+reference: 110
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 0
+method_definition: 6
+command: 67
+class_inheritance: 2
+literal: 62
+string_literal: 46
+numeric_literal: 0
+symbol_literal: 17
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 23
+identifier: 119
+varname: 22
+global_id: 0
+instance_id: 2
+operation: 100
+function_call: 11
+paren_call_args: 3
+call_args: 60
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/http_origin.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 23
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 5
+modifier: 5
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 43
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 2
+command: 13
+class_inheritance: 1
+literal: 14
+string_literal: 7
+numeric_literal: 3
+symbol_literal: 5
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 23
+identifier: 39
+varname: 18
+global_id: 0
+instance_id: 0
+operation: 18
+function_call: 2
+paren_call_args: 2
+call_args: 14
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/remote_referrer_spec.rb ===
+statements: 15
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 24
+return_expression: 0
+yield_expression: 0
+iterator: 7
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 39
+reference: 48
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 24
+class_inheritance: 0
+literal: 22
+string_literal: 21
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 13
+identifier: 40
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 28
+function_call: 3
+paren_call_args: 3
+call_args: 24
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/app.rb ===
+statements: 24
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 58
+return_expression: 0
+yield_expression: 0
+iterator: 16
+block_var: 4
+block_vars: 4
+statement_modifier: 2
+modifier: 2
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 71
+reference: 86
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 36
+class_inheritance: 1
+literal: 46
+string_literal: 29
+numeric_literal: 4
+symbol_literal: 12
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 2
+variable: 36
+identifier: 86
+varname: 34
+global_id: 2
+instance_id: 0
+operation: 49
+function_call: 1
+paren_call_args: 1
+call_args: 31
+binary_op: 7
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 192 of OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token.rb - Syntax error at or near:
+	| ( c1 , c2 >>> ) <<< | c1 ^ c2 } 
+=== OpenSourceProjects/sinatra-master-RubyFiles/scss_test.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 65
+return_expression: 0
+yield_expression: 0
+iterator: 20
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 94
+reference: 96
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 53
+class_inheritance: 1
+literal: 48
+string_literal: 37
+numeric_literal: 0
+symbol_literal: 12
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 19
+identifier: 96
+varname: 19
+global_id: 0
+instance_id: 0
+operation: 79
+function_call: 13
+paren_call_args: 5
+call_args: 51
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/required_params.rb ===
+statements: 14
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 21
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 3
+block_vars: 2
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 24
+reference: 27
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 2
+command: 13
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 1
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 21
+identifier: 40
+varname: 20
+global_id: 0
+instance_id: 0
+operation: 18
+function_call: 3
+paren_call_args: 3
+call_args: 11
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/remote_token.rb ===
+statements: 6
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 8
+reference: 6
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 1
+command: 4
+class_inheritance: 1
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 13
+varname: 3
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 1
+paren_call_args: 1
+call_args: 3
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/slim_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/slim_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 29 of OpenSourceProjects/sinatra-master-RubyFiles/slim_test.rb - Syntax error at or near:
+	mock_app do 
+ layout { >>> % <<< ( h1 \ n | 
+=== OpenSourceProjects/sinatra-master-RubyFiles/helpers_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/helpers_test.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/helpers_test.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/helpers_test.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/sinatra-master-RubyFiles/helpers_test.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/rack_test.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 38
+return_expression: 0
+yield_expression: 0
+iterator: 11
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 51
+reference: 63
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 2
+command: 23
+class_inheritance: 1
+literal: 17
+string_literal: 14
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 33
+identifier: 63
+varname: 33
+global_id: 0
+instance_id: 15
+operation: 40
+function_call: 11
+paren_call_args: 6
+call_args: 27
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/xss_header.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 21
+reference: 20
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 1
+command: 3
+class_inheritance: 1
+literal: 8
+string_literal: 5
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 2
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 23
+varname: 11
+global_id: 0
+instance_id: 1
+operation: 9
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/strict_transport_spec.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 29
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 65
+reference: 85
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 34
+class_inheritance: 0
+literal: 37
+string_literal: 31
+numeric_literal: 1
+symbol_literal: 5
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 23
+identifier: 68
+varname: 19
+global_id: 0
+instance_id: 0
+operation: 49
+function_call: 10
+paren_call_args: 10
+call_args: 40
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/custom_logger.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 9
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 6
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 1
+command: 4
+class_inheritance: 0
+literal: 1
+string_literal: 0
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 11
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 6
+function_call: 0
+paren_call_args: 0
+call_args: 2
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/ip_spoofing_spec.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 22
+return_expression: 0
+yield_expression: 0
+iterator: 6
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 49
+reference: 56
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 22
+class_inheritance: 0
+literal: 33
+string_literal: 33
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 8
+identifier: 35
+varname: 8
+global_id: 0
+instance_id: 0
+operation: 27
+function_call: 5
+paren_call_args: 5
+call_args: 22
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/not_implemented_as_pending.rb ===
+statements: 8
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 17
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 18
+reference: 21
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 2
+command: 9
+class_inheritance: 0
+literal: 7
+string_literal: 1
+numeric_literal: 1
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 15
+identifier: 26
+varname: 11
+global_id: 0
+instance_id: 4
+operation: 16
+function_call: 0
+paren_call_args: 0
+call_args: 6
+binary_op: 0
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/json_csrf_spec.rb ===
+statements: 42
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 69
+return_expression: 0
+yield_expression: 0
+iterator: 23
+block_var: 6
+block_vars: 6
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 142
+reference: 155
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 4
+command: 52
+class_inheritance: 0
+literal: 73
+string_literal: 60
+numeric_literal: 7
+symbol_literal: 6
+array_literal: 13
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 42
+identifier: 111
+varname: 39
+global_id: 0
+instance_id: 3
+operation: 73
+function_call: 11
+paren_call_args: 11
+call_args: 53
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/remote_referrer.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 10
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 9
+reference: 7
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 1
+command: 5
+class_inheritance: 1
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 14
+varname: 3
+global_id: 0
+instance_id: 0
+operation: 8
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/extensions_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/extensions_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 52 of OpenSourceProjects/sinatra-master-RubyFiles/extensions_test.rb - Syntax error at or near:
+	:: Delegator . private_instance_methods . >>> 
+ <<< map { | m | 
+=== OpenSourceProjects/sinatra-master-RubyFiles/content_security_policy_spec.rb ===
+statements: 22
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 46
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 127
+reference: 155
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 50
+class_inheritance: 0
+literal: 80
+string_literal: 61
+numeric_literal: 0
+symbol_literal: 19
+array_literal: 9
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 39
+identifier: 118
+varname: 34
+global_id: 0
+instance_id: 0
+operation: 84
+function_call: 15
+paren_call_args: 15
+call_args: 61
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/result_test.rb ===
+statements: 38
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 72
+return_expression: 0
+yield_expression: 0
+iterator: 26
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 90
+reference: 90
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 52
+class_inheritance: 1
+literal: 52
+string_literal: 45
+numeric_literal: 7
+symbol_literal: 0
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 18
+identifier: 73
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 58
+function_call: 6
+paren_call_args: 1
+call_args: 44
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/capture.rb ===
+statements: 11
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 30
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 62
+reference: 67
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 2
+method_definition: 2
+command: 11
+class_inheritance: 0
+literal: 18
+string_literal: 9
+numeric_literal: 0
+symbol_literal: 12
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 53
+identifier: 77
+varname: 51
+global_id: 0
+instance_id: 7
+operation: 30
+function_call: 5
+paren_call_args: 4
+call_args: 12
+binary_op: 5
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 1
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/strict_transport.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 16
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 29
+reference: 28
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 2
+command: 4
+class_inheritance: 1
+literal: 11
+string_literal: 5
+numeric_literal: 1
+symbol_literal: 6
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 19
+identifier: 33
+varname: 17
+global_id: 0
+instance_id: 2
+operation: 13
+function_call: 1
+paren_call_args: 1
+call_args: 4
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/setup.rb ===
+statements: 16
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 29
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 3
+block_vars: 2
+statement_modifier: 2
+modifier: 2
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 49
+reference: 44
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 6
+method_definition: 7
+command: 11
+class_inheritance: 0
+literal: 5
+string_literal: 4
+numeric_literal: 0
+symbol_literal: 4
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 39
+identifier: 73
+varname: 33
+global_id: 0
+instance_id: 2
+operation: 25
+function_call: 3
+paren_call_args: 2
+call_args: 12
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 1
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/show_exceptions.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/show_exceptions.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 14 of OpenSourceProjects/sinatra-master-RubyFiles/show_exceptions.rb - Syntax error at or near:
+	@@eats_errors . flush ( * >>> ) <<< end 
+ def @@eats_errors . 
+=== OpenSourceProjects/sinatra-master-RubyFiles/chat.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/chat.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 26 of OpenSourceProjects/sinatra-master-RubyFiles/chat.rb - Syntax error at or near:
+	
+ 
+ __END__ 
+ 
+ >>> @ <<< @ layout 
+ < html 
+=== OpenSourceProjects/sinatra-master-RubyFiles/capture_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/capture_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/capture_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/capture_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 53 of OpenSourceProjects/sinatra-master-RubyFiles/capture_spec.rb - Syntax error at or near:
+	
+ 
+ __END__ 
+ 
+ >>> @ <<< @ simple_erb 
+ Say 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/request_test.rb ===
+statements: 19
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 65
+return_expression: 0
+yield_expression: 0
+iterator: 16
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 140
+reference: 216
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 53
+class_inheritance: 1
+literal: 81
+string_literal: 79
+numeric_literal: 2
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 107
+identifier: 186
+varname: 104
+global_id: 0
+instance_id: 0
+operation: 84
+function_call: 31
+paren_call_args: 28
+call_args: 78
+binary_op: 0
+unary_op: 2
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/nokogiri_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/nokogiri_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 18 of OpenSourceProjects/sinatra-master-RubyFiles/nokogiri_test.rb - Syntax error at or near:
+	ok? 
+ assert_body % ( >>> < <<< ?x ml version = "1.0" 
+=== OpenSourceProjects/sinatra-master-RubyFiles/content_security_policy.rb ===
+statements: 13
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 26
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 2
+block_vars: 2
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 48
+reference: 57
+yield_statement: 0
+if_statement: 2
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 2
+command: 9
+class_inheritance: 1
+literal: 12
+string_literal: 10
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 4
+regular_expression: 1
+command_output: 0
+here_document: 0
+variable: 42
+identifier: 57
+varname: 41
+global_id: 0
+instance_id: 1
+operation: 16
+function_call: 3
+paren_call_args: 3
+call_args: 8
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/markdown_test.rb ===
+statements: 38
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 76
+return_expression: 0
+yield_expression: 0
+iterator: 25
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 109
+reference: 128
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 2
+command: 55
+class_inheritance: 0
+literal: 56
+string_literal: 37
+numeric_literal: 0
+symbol_literal: 17
+array_literal: 0
+regular_expression: 2
+command_output: 0
+here_document: 0
+variable: 47
+identifier: 130
+varname: 47
+global_id: 0
+instance_id: 0
+operation: 88
+function_call: 15
+paren_call_args: 9
+call_args: 53
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 1
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 1
+Eval statement: 1
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/extension_spec.rb ===
+statements: 18
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 28
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 30
+reference: 38
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 0
+command: 28
+class_inheritance: 0
+literal: 17
+string_literal: 8
+numeric_literal: 0
+symbol_literal: 10
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 50
+varname: 9
+global_id: 0
+instance_id: 0
+operation: 40
+function_call: 2
+paren_call_args: 2
+call_args: 25
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/middleware_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/middleware_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 8 of OpenSourceProjects/sinatra-master-RubyFiles/middleware_test.rb - Syntax error at or near:
+	env [ 'test.ran' ] . >>> 
+ <<< map { | n | 
+=== OpenSourceProjects/sinatra-master-RubyFiles/all.rb ===
+statements: 1
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 1
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 1
+reference: 4
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 1
+class_inheritance: 0
+literal: 0
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 4
+identifier: 5
+varname: 4
+global_id: 0
+instance_id: 0
+operation: 1
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/yajl_test.rb ===
+statements: 30
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 19
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 84
+reference: 83
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 44
+class_inheritance: 1
+literal: 47
+string_literal: 35
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 79
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 71
+function_call: 13
+paren_call_args: 6
+call_args: 41
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/asciidoctor_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/asciidoctor_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 67 of OpenSourceProjects/sinatra-master-RubyFiles/asciidoctor_test.rb - Syntax error at or near:
+	assert ok? 
+ assert_match %r{<outer>.*<p.*?>hi</p>.*</outer>} >>> m <<< , body 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/settings_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/settings_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 105 of OpenSourceProjects/sinatra-master-RubyFiles/settings_test.rb - Syntax error at or near:
+	'uses existing setter methods if detected' do 
+ class << >>> @base <<< 
+ def foo 
+ @foo 
+=== OpenSourceProjects/sinatra-master-RubyFiles/required_params_spec.rb ===
+statements: 40
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 63
+return_expression: 0
+yield_expression: 0
+iterator: 25
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 114
+reference: 135
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 57
+class_inheritance: 0
+literal: 76
+string_literal: 26
+numeric_literal: 21
+symbol_literal: 29
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 121
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 104
+function_call: 18
+paren_call_args: 17
+call_args: 59
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/routing_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/routing_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 10 of OpenSourceProjects/sinatra-master-RubyFiles/routing_test.rb - Syntax error at or near:
+	
+ def to_pattern ( * >>> ) <<< 
+ self 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/form_token.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 7
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 7
+reference: 3
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 1
+command: 2
+class_inheritance: 1
+literal: 2
+string_literal: 3
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 1
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 0
+identifier: 6
+varname: 0
+global_id: 0
+instance_id: 0
+operation: 2
+function_call: 0
+paren_call_args: 0
+call_args: 1
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/wlang_test.rb ===
+statements: 36
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 69
+return_expression: 0
+yield_expression: 0
+iterator: 23
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 84
+reference: 82
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 3
+command: 51
+class_inheritance: 1
+literal: 47
+string_literal: 35
+numeric_literal: 0
+symbol_literal: 13
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 90
+varname: 16
+global_id: 0
+instance_id: 0
+operation: 75
+function_call: 8
+paren_call_args: 2
+call_args: 45
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/engine_tracking.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/engine_tracking.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 98 of OpenSourceProjects/sinatra-master-RubyFiles/engine_tracking.rb - Syntax error at or near:
+	
+ def initialize ( * >>> ) <<< 
+ @current_engine = : ruby 
+=== OpenSourceProjects/sinatra-master-RubyFiles/contest.rb ===
+statements: 22
+undef_definition: 0
+alias_definition: 2
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 47
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 3
+block_vars: 3
+statement_modifier: 4
+modifier: 4
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 62
+reference: 73
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 0
+method_definition: 12
+command: 19
+class_inheritance: 1
+literal: 15
+string_literal: 8
+numeric_literal: 0
+symbol_literal: 7
+array_literal: 2
+regular_expression: 2
+command_output: 0
+here_document: 0
+variable: 58
+identifier: 105
+varname: 45
+global_id: 0
+instance_id: 2
+operation: 52
+function_call: 10
+paren_call_args: 10
+call_args: 23
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 1
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 1
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 2
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/readme_test.rb ===
+statements: 47
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 101
+return_expression: 0
+yield_expression: 0
+iterator: 30
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 91
+reference: 93
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 71
+class_inheritance: 1
+literal: 70
+string_literal: 66
+numeric_literal: 0
+symbol_literal: 2
+array_literal: 2
+regular_expression: 2
+command_output: 0
+here_document: 0
+variable: 6
+identifier: 83
+varname: 6
+global_id: 0
+instance_id: 0
+operation: 74
+function_call: 1
+paren_call_args: 1
+call_args: 58
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/haml_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/haml_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 77 of OpenSourceProjects/sinatra-master-RubyFiles/haml_test.rb - Syntax error at or near:
+	assert ok? 
+ assert_equal "<!DOCTYPE html>\n<h1 class=\" >>> header <<< \ ">Hello World</h1>\n" , body 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/response_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/response_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 60 of OpenSourceProjects/sinatra-master-RubyFiles/response_test.rb - Syntax error at or near:
+	object . inject ( * >>> ) <<< fail 'called' end 
+ def 
+=== OpenSourceProjects/sinatra-master-RubyFiles/http_origin_spec.rb ===
+statements: 23
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 34
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 5
+block_vars: 5
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 54
+reference: 77
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 32
+class_inheritance: 0
+literal: 24
+string_literal: 21
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 37
+identifier: 76
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 40
+function_call: 5
+paren_call_args: 5
+call_args: 30
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 5
+=== OpenSourceProjects/sinatra-master-RubyFiles/templates_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/templates_test.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/templates_test.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/templates_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 213 of OpenSourceProjects/sinatra-master-RubyFiles/templates_test.rb - Syntax error at or near:
+	@app . templates [ : >>> "foo bar" <<< ] [ 0 ] 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/shared_examples.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/shared_examples.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/shared_examples.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/shared_examples.rb, RubyExtractor/input/ruby.txl] : TXL0191E at end of OpenSourceProjects/sinatra-master-RubyFiles/shared_examples.rb - Syntax error at end of:
+	
+ end 
+ end 
+ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/content_for.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/content_for.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 132 of OpenSourceProjects/sinatra-master-RubyFiles/content_for.rb - Syntax error at or near:
+	||= proc { | * >>> | <<< value } 
+ content_blocks [ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/version.rb ===
+statements: 2
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 2
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 2
+reference: 1
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 0
+command: 0
+class_inheritance: 0
+literal: 1
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 1
+identifier: 2
+varname: 1
+global_id: 0
+instance_id: 0
+operation: 0
+function_call: 0
+paren_call_args: 0
+call_args: 0
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/route_added_hook_test.rb ===
+statements: 29
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 47
+return_expression: 0
+yield_expression: 0
+iterator: 13
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 74
+reference: 88
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 3
+command: 30
+class_inheritance: 1
+literal: 19
+string_literal: 19
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 11
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 47
+identifier: 85
+varname: 44
+global_id: 0
+instance_id: 6
+operation: 37
+function_call: 4
+paren_call_args: 4
+call_args: 32
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/remote_token_spec.rb ===
+statements: 31
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 51
+return_expression: 0
+yield_expression: 0
+iterator: 14
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 114
+reference: 128
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 45
+class_inheritance: 0
+literal: 67
+string_literal: 62
+numeric_literal: 0
+symbol_literal: 5
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 28
+identifier: 86
+varname: 28
+global_id: 0
+instance_id: 0
+operation: 58
+function_call: 8
+paren_call_args: 8
+call_args: 44
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/reloader.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/reloader.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 126 of OpenSourceProjects/sinatra-master-RubyFiles/reloader.rb - Syntax error at or near:
+	# Returns the +List+ for the application +app+. 
+ def self . >>> for <<< ( app ) 
+ @app_list_map 
+=== OpenSourceProjects/sinatra-master-RubyFiles/contrib.rb ===
+statements: 5
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 20
+return_expression: 0
+yield_expression: 0
+iterator: 0
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 20
+reference: 18
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 4
+method_definition: 0
+command: 16
+class_inheritance: 0
+literal: 15
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 15
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 3
+identifier: 38
+varname: 3
+global_id: 0
+instance_id: 0
+operation: 31
+function_call: 0
+paren_call_args: 0
+call_args: 16
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/reloader_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/reloader_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/reloader_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/reloader_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 260 of OpenSourceProjects/sinatra-master-RubyFiles/reloader_spec.rb - Syntax error at or near:
+	it "doesn't duplicate routes with every reload" do 
+ module >>> :: <<< RouteExtension 
+ def self . 
+=== OpenSourceProjects/sinatra-master-RubyFiles/frame_options_spec.rb ===
+statements: 14
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 24
+return_expression: 0
+yield_expression: 0
+iterator: 8
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 57
+reference: 73
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 29
+class_inheritance: 0
+literal: 36
+string_literal: 33
+numeric_literal: 0
+symbol_literal: 3
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 12
+identifier: 54
+varname: 12
+global_id: 0
+instance_id: 0
+operation: 42
+function_call: 10
+paren_call_args: 10
+call_args: 37
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/indifferent_hash_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/indifferent_hash_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 58 of OpenSourceProjects/sinatra-master-RubyFiles/indifferent_hash_test.rb - Syntax error at or near:
+	:: IndifferentHash [ : a >>> => <<< 'a' , ?b => 'b' 
+=== OpenSourceProjects/sinatra-master-RubyFiles/multi_route_spec.rb ===
+statements: 39
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 63
+return_expression: 0
+yield_expression: 0
+iterator: 17
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 69
+reference: 88
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 57
+class_inheritance: 0
+literal: 37
+string_literal: 32
+numeric_literal: 3
+symbol_literal: 3
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 22
+identifier: 92
+varname: 21
+global_id: 0
+instance_id: 0
+operation: 71
+function_call: 11
+paren_call_args: 11
+call_args: 56
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/authenticity_token_spec.rb ===
+statements: 46
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 77
+return_expression: 0
+yield_expression: 0
+iterator: 22
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 139
+reference: 172
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 74
+class_inheritance: 0
+literal: 61
+string_literal: 48
+numeric_literal: 2
+symbol_literal: 11
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 49
+identifier: 156
+varname: 49
+global_id: 0
+instance_id: 0
+operation: 103
+function_call: 18
+paren_call_args: 18
+call_args: 81
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/markaby_test.rb ===
+statements: 35
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 68
+return_expression: 0
+yield_expression: 0
+iterator: 26
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 81
+reference: 81
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 57
+class_inheritance: 1
+literal: 44
+string_literal: 37
+numeric_literal: 0
+symbol_literal: 8
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 92
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 78
+function_call: 12
+paren_call_args: 4
+call_args: 48
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/protection_spec.rb ===
+statements: 70
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 129
+return_expression: 0
+yield_expression: 0
+iterator: 46
+block_var: 3
+block_vars: 3
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 222
+reference: 285
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 126
+class_inheritance: 0
+literal: 117
+string_literal: 80
+numeric_literal: 2
+symbol_literal: 30
+array_literal: 7
+regular_expression: 5
+command_output: 0
+here_document: 0
+variable: 95
+identifier: 268
+varname: 86
+global_id: 0
+instance_id: 0
+operation: 179
+function_call: 23
+paren_call_args: 23
+call_args: 117
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 1
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/link_header_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/link_header_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/link_header_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/link_header_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 22 of OpenSourceProjects/sinatra-master-RubyFiles/link_header_spec.rb - Syntax error at or near:
+	[ 'Link' ] = "<foo>     ;bar=\" >>> baz <<< \ "" 
+ stylesheet '/style.css' 
+=== OpenSourceProjects/sinatra-master-RubyFiles/rdoc_test.rb ===
+statements: 33
+undef_definition: 0
+alias_definition: 0
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 59
+return_expression: 0
+yield_expression: 0
+iterator: 19
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 70
+reference: 69
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 43
+class_inheritance: 1
+literal: 39
+string_literal: 28
+numeric_literal: 0
+symbol_literal: 11
+array_literal: 0
+regular_expression: 2
+command_output: 0
+here_document: 0
+variable: 10
+identifier: 73
+varname: 10
+global_id: 0
+instance_id: 0
+operation: 63
+function_call: 8
+paren_call_args: 3
+call_args: 39
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/mapped_error_test.rb ===
+statements: 153
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 289
+return_expression: 0
+yield_expression: 0
+iterator: 95
+block_var: 1
+block_vars: 1
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 337
+reference: 337
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 8
+module_definition: 0
+method_definition: 4
+command: 213
+class_inheritance: 8
+literal: 175
+string_literal: 114
+numeric_literal: 38
+symbol_literal: 23
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 98
+identifier: 342
+varname: 74
+global_id: 0
+instance_id: 0
+operation: 251
+function_call: 11
+paren_call_args: 11
+call_args: 184
+binary_op: 3
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/less_test.rb ===
+statements: 23
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 49
+return_expression: 0
+yield_expression: 0
+iterator: 15
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 78
+reference: 83
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 41
+class_inheritance: 1
+literal: 41
+string_literal: 32
+numeric_literal: 0
+symbol_literal: 7
+array_literal: 0
+regular_expression: 3
+command_output: 0
+here_document: 0
+variable: 17
+identifier: 79
+varname: 17
+global_id: 0
+instance_id: 0
+operation: 62
+function_call: 13
+paren_call_args: 7
+call_args: 43
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/cookies.rb ===
+statements: 76
+undef_definition: 0
+alias_definition: 11
+require_definition: 2
+BEGIN_statement: 0
+END_statement: 0
+Expression: 176
+return_expression: 0
+yield_expression: 0
+iterator: 9
+block_var: 12
+block_vars: 8
+statement_modifier: 15
+modifier: 15
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 206
+reference: 243
+yield_statement: 0
+if_statement: 3
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 47
+command: 84
+class_inheritance: 0
+literal: 23
+string_literal: 10
+numeric_literal: 2
+symbol_literal: 12
+array_literal: 3
+regular_expression: 1
+command_output: 0
+here_document: 0
+variable: 198
+identifier: 318
+varname: 185
+global_id: 0
+instance_id: 26
+operation: 178
+function_call: 27
+paren_call_args: 25
+call_args: 79
+binary_op: 6
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 1
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/namespace_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/namespace_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/namespace_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/namespace_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 51 of OpenSourceProjects/sinatra-master-RubyFiles/namespace_spec.rb - Syntax error at or near:
+	send ( verb , /\/ >>> \ <<< d \ d / ) 
+=== OpenSourceProjects/sinatra-master-RubyFiles/config_file.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/config_file.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/config_file.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/config_file.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 149 of OpenSourceProjects/sinatra-master-RubyFiles/config_file.rb - Syntax error at or near:
+	| ( k , v >>> ) <<< , acc | 
+ if 
+=== OpenSourceProjects/sinatra-master-RubyFiles/sass_test.rb ===
+statements: 42
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 87
+return_expression: 0
+yield_expression: 0
+iterator: 26
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 131
+reference: 133
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 68
+class_inheritance: 1
+literal: 71
+string_literal: 49
+numeric_literal: 0
+symbol_literal: 23
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 21
+identifier: 128
+varname: 21
+global_id: 0
+instance_id: 0
+operation: 110
+function_call: 18
+paren_call_args: 8
+call_args: 68
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/base_test.rb ===
+statements: 45
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 121
+return_expression: 0
+yield_expression: 0
+iterator: 31
+block_var: 3
+block_vars: 3
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 184
+reference: 246
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 8
+module_definition: 0
+method_definition: 1
+command: 65
+class_inheritance: 8
+literal: 86
+string_literal: 76
+numeric_literal: 7
+symbol_literal: 3
+array_literal: 4
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 138
+identifier: 243
+varname: 134
+global_id: 0
+instance_id: 2
+operation: 94
+function_call: 26
+paren_call_args: 21
+call_args: 80
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/spec_helpers.rb ===
+statements: 12
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 28
+return_expression: 0
+yield_expression: 0
+iterator: 3
+block_var: 1
+block_vars: 1
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 43
+reference: 47
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 1
+method_definition: 4
+command: 16
+class_inheritance: 0
+literal: 15
+string_literal: 5
+numeric_literal: 2
+symbol_literal: 9
+array_literal: 3
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 26
+identifier: 58
+varname: 24
+global_id: 0
+instance_id: 3
+operation: 32
+function_call: 3
+paren_call_args: 3
+call_args: 16
+binary_op: 2
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 1
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/config_file_spec.rb ===
+statements: 50
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 91
+return_expression: 0
+yield_expression: 0
+iterator: 22
+block_var: 0
+block_vars: 0
+statement_modifier: 1
+modifier: 1
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 115
+reference: 170
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 1
+command: 117
+class_inheritance: 0
+literal: 72
+string_literal: 43
+numeric_literal: 17
+symbol_literal: 13
+array_literal: 11
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 37
+identifier: 194
+varname: 37
+global_id: 0
+instance_id: 0
+operation: 155
+function_call: 24
+paren_call_args: 22
+call_args: 122
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 1
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/streaming_test.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/streaming_test.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/streaming_test.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/streaming_test.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 70 of OpenSourceProjects/sinatra-master-RubyFiles/streaming_test.rb - Syntax error at or near:
+	
+ def initialize ( * >>> ) <<< @schedule , @defer = [] 
+=== OpenSourceProjects/sinatra-master-RubyFiles/filter_test.rb ===
+statements: 197
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 440
+return_expression: 0
+yield_expression: 0
+iterator: 152
+block_var: 2
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 572
+reference: 594
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 2
+module_definition: 0
+method_definition: 0
+command: 272
+class_inheritance: 2
+literal: 315
+string_literal: 267
+numeric_literal: 27
+symbol_literal: 17
+array_literal: 3
+regular_expression: 4
+command_output: 0
+here_document: 0
+variable: 195
+identifier: 489
+varname: 165
+global_id: 0
+instance_id: 11
+operation: 341
+function_call: 52
+paren_call_args: 38
+call_args: 250
+binary_op: 0
+unary_op: 16
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/base_spec.rb ===
+statements: 23
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 35
+return_expression: 0
+yield_expression: 0
+iterator: 10
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 49
+reference: 67
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 35
+class_inheritance: 0
+literal: 29
+string_literal: 27
+numeric_literal: 1
+symbol_literal: 1
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 21
+identifier: 60
+varname: 20
+global_id: 0
+instance_id: 0
+operation: 40
+function_call: 4
+paren_call_args: 4
+call_args: 32
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/okjson.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/okjson.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 422 of OpenSourceProjects/sinatra-master-RubyFiles/okjson.rb - Syntax error at or near:
+	+ valenc ( v ) >>> } <<< . join ( ',' ) 
+=== OpenSourceProjects/sinatra-master-RubyFiles/runner.rb ===
+statements: 39
+undef_definition: 0
+alias_definition: 0
+require_definition: 3
+BEGIN_statement: 0
+END_statement: 0
+Expression: 72
+return_expression: 0
+yield_expression: 0
+iterator: 8
+block_var: 4
+block_vars: 4
+statement_modifier: 4
+modifier: 4
+rescue_statement: 4
+ensure_statement: 0
+return_statement: 0
+primary: 89
+reference: 110
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 1
+method_definition: 16
+command: 37
+class_inheritance: 0
+literal: 20
+string_literal: 17
+numeric_literal: 6
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 85
+identifier: 145
+varname: 82
+global_id: 1
+instance_id: 6
+operation: 57
+function_call: 7
+paren_call_args: 7
+call_args: 33
+binary_op: 3
+unary_op: 1
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 1
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/rabl_test.rb ===
+statements: 27
+undef_definition: 0
+alias_definition: 0
+require_definition: 4
+BEGIN_statement: 0
+END_statement: 0
+Expression: 56
+return_expression: 0
+yield_expression: 0
+iterator: 17
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 1
+ensure_statement: 0
+return_statement: 0
+primary: 75
+reference: 79
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 43
+class_inheritance: 1
+literal: 46
+string_literal: 36
+numeric_literal: 0
+symbol_literal: 14
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 19
+identifier: 84
+varname: 19
+global_id: 0
+instance_id: 5
+operation: 70
+function_call: 12
+paren_call_args: 7
+call_args: 43
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/streaming_spec.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/streaming_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/sinatra-master-RubyFiles/streaming_spec.rb' - Parse time limit (161000000 cycles) exceeded
+[OpenSourceProjects/sinatra-master-RubyFiles/streaming_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 352 of OpenSourceProjects/sinatra-master-RubyFiles/streaming_spec.rb - Syntax error at or near:
+	. close_read } } . >>> 
+ <<< to raise_error ( IOError , 
+=== OpenSourceProjects/sinatra-master-RubyFiles/sinatra_test.rb ===
+statements: 7
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 11
+return_expression: 0
+yield_expression: 0
+iterator: 4
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 15
+reference: 22
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 0
+command: 6
+class_inheritance: 1
+literal: 5
+string_literal: 5
+numeric_literal: 0
+symbol_literal: 0
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 13
+identifier: 24
+varname: 13
+global_id: 0
+instance_id: 0
+operation: 9
+function_call: 3
+paren_call_args: 1
+call_args: 7
+binary_op: 0
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/session_hijacking.rb ===
+statements: 10
+undef_definition: 0
+alias_definition: 0
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 18
+return_expression: 0
+yield_expression: 0
+iterator: 2
+block_var: 3
+block_vars: 2
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 38
+reference: 42
+yield_statement: 0
+if_statement: 1
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 2
+method_definition: 2
+command: 8
+class_inheritance: 1
+literal: 8
+string_literal: 1
+numeric_literal: 0
+symbol_literal: 8
+array_literal: 5
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 27
+identifier: 50
+varname: 26
+global_id: 0
+instance_id: 0
+operation: 21
+function_call: 4
+paren_call_args: 3
+call_args: 11
+binary_op: 1
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/webdav.rb ===
+statements: 21
+undef_definition: 0
+alias_definition: 2
+require_definition: 1
+BEGIN_statement: 0
+END_statement: 0
+Expression: 45
+return_expression: 0
+yield_expression: 0
+iterator: 1
+block_var: 0
+block_vars: 0
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 69
+reference: 54
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 3
+method_definition: 16
+command: 17
+class_inheritance: 0
+literal: 18
+string_literal: 13
+numeric_literal: 0
+symbol_literal: 6
+array_literal: 0
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 31
+identifier: 78
+varname: 29
+global_id: 0
+instance_id: 0
+operation: 43
+function_call: 0
+paren_call_args: 0
+call_args: 10
+binary_op: 6
+unary_op: 0
+Include statement: 1
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 1
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
+=== OpenSourceProjects/sinatra-master-RubyFiles/static_test.rb ===
+statements: 50
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 162
+return_expression: 0
+yield_expression: 0
+iterator: 35
+block_var: 7
+block_vars: 7
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 380
+reference: 489
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 1
+module_definition: 0
+method_definition: 1
+command: 107
+class_inheritance: 1
+literal: 168
+string_literal: 108
+numeric_literal: 39
+symbol_literal: 20
+array_literal: 9
+regular_expression: 0
+command_output: 0
+here_document: 1
+variable: 243
+identifier: 419
+varname: 236
+global_id: 0
+instance_id: 13
+operation: 209
+function_call: 81
+paren_call_args: 70
+call_args: 163
+binary_op: 30
+unary_op: 2
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 1
+=== OpenSourceProjects/sinatra-master-RubyFiles/link_header.rb ===
+[OpenSourceProjects/sinatra-master-RubyFiles/link_header.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 88 of OpenSourceProjects/sinatra-master-RubyFiles/link_header.rb - Syntax error at or near:
+	html_pattern = "<link href=\" % s >>> \ <<< "#{options.join} />" 
+ http_pattern = [ 
+=== OpenSourceProjects/sinatra-master-RubyFiles/escaped_params_spec.rb ===
+statements: 20
+undef_definition: 0
+alias_definition: 0
+require_definition: 0
+BEGIN_statement: 0
+END_statement: 0
+Expression: 43
+return_expression: 0
+yield_expression: 0
+iterator: 12
+block_var: 5
+block_vars: 5
+statement_modifier: 0
+modifier: 0
+rescue_statement: 0
+ensure_statement: 0
+return_statement: 0
+primary: 100
+reference: 139
+yield_statement: 0
+if_statement: 0
+unless_statement: 0
+while_statement: 0
+until_statement: 0
+case_statement: 0
+for_statement: 0
+class_definition: 0
+module_definition: 0
+method_definition: 0
+command: 36
+class_inheritance: 0
+literal: 57
+string_literal: 44
+numeric_literal: 5
+symbol_literal: 8
+array_literal: 10
+regular_expression: 0
+command_output: 0
+here_document: 0
+variable: 49
+identifier: 104
+varname: 49
+global_id: 0
+instance_id: 0
+operation: 56
+function_call: 12
+paren_call_args: 12
+call_args: 37
+binary_op: 4
+unary_op: 0
+Include statement: 0
+Respond To statement: 0
+Method Missing statement: 0
+Define Method statement: 0
+Attr Reader statement: 0
+Attr Writer statement: 0
+Attr Accessor statement: 0
+Instance Variable Get statement: 0
+Instance Variable Set statement: 0
+Class Variable Get statement: 0
+Class Variable Set statement: 0
+Const Get statement: 0
+Const Set statement: 0
+Eval statement: 0
+Class Eval statement: 0
+Module Eval statement: 0
+Instance Eval statement: 0
+Instance Exec statement: 0
+Send statement: 0
