@@ -2859,7 +2859,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/system_profiler.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/digital_ocean.rb ===
 statements: 16
 undef_definition: 0
@@ -3215,8 +3214,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/group_helper.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
-[OpenSourceProjects/ohai-master-RubyFiles/group_helper.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/root_group.rb ===
 statements: 7
 undef_definition: 0
@@ -3872,7 +3869,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/kernel_spec.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/go.rb ===
 statements: 8
 undef_definition: 0
@@ -4519,7 +4515,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/c.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/python_spec.rb ===
 [OpenSourceProjects/ohai-master-RubyFiles/python_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 30 of OpenSourceProjects/ohai-master-RubyFiles/python_spec.rb - Syntax error at or near:
 	) . with ( "python -c \" >>> import <<< sys ; print ( sys 
@@ -4943,8 +4938,6 @@ Module Eval statement: 0
 Instance Eval statement: 2
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/versionvii.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
-[OpenSourceProjects/ohai-master-RubyFiles/versionvii.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/shard.rb ===
 statements: 29
 undef_definition: 0
@@ -7815,7 +7808,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/azure.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/filesystem.rb ===
 statements: 20
 undef_definition: 0
@@ -9062,7 +9054,6 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/c_spec.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
 === OpenSourceProjects/ohai-master-RubyFiles/application_spec.rb ===
 [OpenSourceProjects/ohai-master-RubyFiles/application_spec.rb, RubyExtractor/input/ruby.txl] : TXL0127E input file 'OpenSourceProjects/ohai-master-RubyFiles/application_spec.rb' - Parse time limit (161000000 cycles) exceeded
 [OpenSourceProjects/ohai-master-RubyFiles/application_spec.rb, RubyExtractor/input/ruby.txl] : TXL0192E line 62 of OpenSourceProjects/ohai-master-RubyFiles/application_spec.rb - Syntax error at or near:
@@ -10486,6 +10477,3 @@ Module Eval statement: 0
 Instance Eval statement: 0
 Instance Exec statement: 0
 Send statement: 0
-[OpenSourceProjects/ohai-master-RubyFiles/ssh_host_keys_spec.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
-[OpenSourceProjects/ohai-master-RubyFiles/ssh_host_keys_spec.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
-[OpenSourceProjects/ohai-master-RubyFiles/ssh_host_keys_spec.rb, RubyExtractor/input/ruby.txl] : TXL0953W - (Warning) Output token too long for output width
